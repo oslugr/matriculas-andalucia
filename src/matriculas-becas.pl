@@ -14,9 +14,13 @@ while (@ARGV) {
 
     my ($year) = ($file_name =~ /(\d+)\.txt/);
     
-    my ($alumnos,$ordinarias,$mec) = ($file_data =~ /ALUMNOS:.+?(\d+)\s+.+?ORDINARIA.+?(\d+)\s+.+?BECARIO M.E.C.  .+?(\d+)\s+/sg);
+    my ($alumnos,$ordinarias) = ($file_data =~ /ALUMNOS:.+?(\d+)\s+.+?ORDINARIA.+?(\d+)\s/s);
 
-    $data{$year}->{'alumnos'}=$alumnos;
+    my ($mec) = ($file_data =~ /BECARIO .+? (\d+)/s);
+
+    $data{$year} = { alumnos => $alumnos,
+		     ordinarios => $ordinarias,
+		     mec => $mec };
 
 }
 say(to_json(\%data));
