@@ -1,0 +1,214 @@
+* {
+	background-repeat: no-repeat;
+}
+
+input, fieldset {
+	border:0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia,serif;
+    font-style: normal;
+    font-weight: normal;
+}
+
+p.justificado {text-align:justify;}
+
+h5 {margin:10px 0;font-size:11px;font-weight:bold;}
+
+ul {padding-left:25px;}
+li {list-style:outside;}
+
+div#contenedor {
+	font-family: Verdana,sans;
+	font-size: 11px;
+}
+
+/*aqui va el estilo de la cabecera */
+
+div#cabecera {
+    background-image: url(/ai/aiimagenes/cabecera_p.png);
+    background-position: right bottom;
+}
+
+div#cabecera h1#ugr a {
+    text-indent: -9999em;
+	background-image: url(/ai/aiimagenes/logougr_p.png);
+}
+
+h2#cabecera_title {
+	color: white;
+    font-size: 28px;
+    line-height: 44px;
+    background-image: url(/ai/aiimagenes/candado_cabecera.png);
+    background-position: right center;
+    text-align: right;
+}
+
+/* menú */
+div#menuai {
+    background-image: url(/ai/aiimagenes/fondo_menu_estrecho.png);
+}
+
+div.elementomenu {
+}
+
+div.elementomenu {
+	background-image: url(/ai/aiimagenes/fondo_menu_off.png);
+	background-repeat: repeat-x;
+	border-right:1px solid #ccccce;
+}
+
+div.elementomenu input {
+	background-color:transparent;
+	color:#3e99cc;
+	font-family: Verdana,sans;
+	font-weight:600;
+	font-size:11px;
+}
+
+div.elementomenu:hover {
+	background-image: url(/ai/aiimagenes/fondo_menu_on.png);
+}
+
+div.elementomenu input.salir {
+	background-image: url(/ai/aiimagenes/boton_salir.png);
+    background-position: right center;
+	width:81px;
+    margin-right:10px;
+}
+
+div.elementomenu input.__ai_boton_ayuda {
+	background-image: url(/ai/aiimagenes/icono_menu_ayuda.png);
+    background-position: right center;
+	width:91px;
+    margin-right:10px;
+}
+
+/* cuerpo */
+
+div#general{
+	background-color:#f6f6f6;
+}
+
+iframe#iframe_ai {
+	background-color:#f6f6f6;
+}
+
+/* pie */
+
+div#pie {
+	background-image: url(/ai/aiimagenes/fondo_pie.png);
+}
+
+div#csirc {
+	background-image: url(/ai/aiimagenes/logo_csirc.png);
+}
+div#csirc a {
+    text-indent: -9999em;
+}
+div#seguro{
+	background-image: url(/ai/aiimagenes/candado_pie.png);
+	background-position: right center;
+}
+div#seguro span{
+	border-right:1px solid #bfbfc1;
+	color:#a6a6a9;
+	font-family: Verdana,sans;
+	font-weight:600;
+	font-size:11px;
+}
+
+/***** MIGAS Y FECHA ****/
+
+div.__ai_miga {float:left;height:20px;padding:0 0 0 3px;font-size:10px;color:#3e99cc;}
+div.__ai_fecha {float:right;height:16px;padding:4px 0 0 3px;font-size:10px;color:#3e99cc;}
+
+.__ai_miga ul li._ai_miga_primero span {
+    background: url("/ai/css_aplicaciones/img/home.png") no-repeat scroll 0 0 transparent;
+    display:block;
+	height: 20px !important;
+    width: 15px;
+    margin-top: 2px;
+    overflow: hidden;
+    padding: 0;
+    text-indent: -1000em;
+    width: 15px;
+}
+
+.__ai_miga ul li._ai_miga_primero a {
+    background: url("/ai/css_aplicaciones/img/home.png") no-repeat scroll 0 0 transparent;
+	height: 20px !important;
+    width: 15px;
+    margin-top: 2px;
+    overflow: hidden;
+    padding: 0;
+    text-indent: -1000em;
+    width: 15px;
+}
+.__ai_miga ul li._ai_miga_primero input {
+    background-image: url("/ai/css_aplicaciones/img/home.png") !important;
+    background-color: transparent !important;
+    background-position:0 0 !important;
+    margin-top: 2px;
+    height: 20px !important;
+    overflow: hidden;
+    padding: 0;
+    text-indent: -1000em;
+    width: 16px;
+    cursor:pointer;
+    
+}
+.__ai_miga ul li._ai_miga_primero input:hover, .__ai_miga ul li._ai_miga_primero a:hover {
+    background-position:0 -16px !important;
+}
+
+.__ai_miga ul li a {
+    display: block;
+    float: left;
+    height: 20px;
+    line-height: 20px;
+    overflow: hidden;
+    position: relative;
+    font-size: 10px;
+    text-decoration:none;
+    color: #3E99CC;
+}
+.__ai_miga ul li input {
+	background: none repeat scroll 0 0 transparent;
+    font-size: 10px;
+    font-family: Verdana,sans;
+    color: #3E99CC;
+    height: 18px;
+    line-height: 18px;
+    padding-top:1px;
+    cursor:pointer;
+}
+/* Hack para que alinee bien el botón en firefox */
+@-moz-document url-prefix() {
+	 .__ai_miga ul li input {
+		  padding-top:0;
+	}
+}
+.__ai_miga ul li input:hover, .__ai_miga ul li a:hover {
+    color:#136a9d !important;
+}
+
+.__ai_miga ul li._ai_miga_ultimo {
+    background: none repeat scroll 0 0 transparent;
+    margin-right: 0;
+    padding-right: 0;
+    color:#888;
+}
+.__ai_miga ul li {
+    background: url("/ai/css_aplicaciones/img/chevron.gif") no-repeat scroll 100% 0 transparent;
+    display: block;
+    float: left;
+    font-size: 10px;
+    height: 20px;
+    line-height: 20px;
+    margin: 0 6px 0 0;
+    overflow: hidden;
+    padding: 0 10px 0 0;
+    position: relative;
+}
