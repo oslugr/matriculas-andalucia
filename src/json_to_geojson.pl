@@ -19,7 +19,7 @@ my $geojson_base =<<EOC;
 { "type": "FeatureCollection",
   "features": [
     { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [37.178056,-3.600833]}
+      "geometry": {"type": "Point", "coordinates": [-3.600833, 37.178056]}
       }
       ]
 }
