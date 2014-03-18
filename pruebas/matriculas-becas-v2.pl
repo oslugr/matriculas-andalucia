@@ -1,5 +1,9 @@
 #!/usr/bin/env perl
 
+#Versión 2 del script para poder sacar los datos de un text formateado de alguna forma concreta.
+#Se pueden sacar los datos Año, Alumnos, Varones, Mujeres, Ordinarios y Becas y se pasa a formato .csv a un archivo
+# llamado "matriculas-becas-ugr.csv".
+#Siempre que se use este programa, sobreescribirá el archivo "matriculas-becas-ugr.csv"
 use File::Slurp qw(read_file);
 use Text::CSV;
 
@@ -10,13 +14,9 @@ use strict;
 
 my %data;
 
-my $csv = Text::CSV->new ( { binary => 1 } )  # should set binary attribute.
-                 or die "Cannot use CSV: ".Text::CSV->error_diag ();
-
 #El archivo se reescribe siempre que se ejecute el programa
-open( SALIDA, ">matriculas-becas-ugr.csv") or die "No se puede abrir matriculas-becas-ugr.csv" . ".csv";
+open( SALIDA, ">matriculas-becas-ugr.csv") or die "No se puede abrir matriculas-becas-ugr.csv";
 #Cabecera del documento
-print SALIDA "Año, Alumnos, Varones, Mujeres, Ordinarios, Becas \n";
 
 while (@ARGV) {
 
@@ -32,7 +32,6 @@ while (@ARGV) {
 
 #    print SALIDA $file_data;
  
-
     my ($year) = ($file_name =~ /(\d+)\.txt/);
     
     my ($alumnos,$ordinarias) = ($file_data =~ /ALUMNOS:.+?(\d+)\s+.+?ORDINARIA.+?(\d+)\s/s);
@@ -41,13 +40,15 @@ while (@ARGV) {
 
     my ($varones, $mujeres) = ($file_data =~ /VARONES:.+?(\d+)\s+.+?MUJERES:.+?(\d+)/s);
 
-#    $data{$year} = { alumnos => $alumnos,
-#		     ordinarios => $ordinarias,
-#		     mec => $mec };
+#    print SALIDA $year.",".$alumnos.",".$varones.",".$mujeres.",".$ordinarias.",".$mec."\n";
 
-    print SALIDA $year.",".$alumnos.",".$varones.",".$mujeres.",".$ordinarias.",".$mec."\n";
+    $data{$year} = { Alumnos => $alumnos,
+            Varones => $varones,
+            Mujeres => $mujeres,
+            Ordinarios => $ordinarias,
+            Mec => $mec };
 
-
+print SALIDA (to_json\%data);
 }
 
 close SALIDA;
