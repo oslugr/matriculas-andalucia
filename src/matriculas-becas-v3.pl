@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 
-#Versión 2 del script para poder sacar los datos de un text formateado de alguna forma concreta.
+#Versión 3 del script para poder sacar los datos de un text formateado de alguna forma concreta.
 #Se pueden sacar los datos Año, Alumnos, Varones, Mujeres, Ordinarios y Becas y se pasa a formato .csv a un archivo
 # llamado "matriculas-becas-ugr.csv".
 #Siempre que se use este programa, sobreescribirá el archivo "matriculas-becas-ugr.csv"
