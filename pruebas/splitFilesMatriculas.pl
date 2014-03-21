@@ -20,6 +20,9 @@ my $file_json;
 my $tabla;
 my $linea;
 
+use constant false => 0;
+use constant true  => 1;
+
 sub principal {
     my $csv = Text::CSV->new ( { binary => 1 } )  # should set binary attribute.
                  or die "Cannot use CSV: ".Text::CSV->error_diag ();
@@ -53,6 +56,7 @@ sub principal {
             }
             say $_;
  #       }
+        my $finalTabla;
         foreach $linea (@lineas){
             if($linea =~ /\s([\d\w]\).*$)/){
                 ($cabecera) = $1;
@@ -60,18 +64,19 @@ sub principal {
             if($linea =~ /\s*[\|\_]*/g){
                 ($tabla) = ($linea =~ m/$\s*\|.*\|$/g);
                $tablaCompleta .= $tabla."\n";
-
+                $finalTabla = true;
             }
-            if($linea =~ /^\n$/){
+            if(($linea =~ /^\n$/) && $finalTabla){
                 #print $cabecera;
-                
-                open (SALIDA, ">".join('',@directory_name)."/".$cabecera);
-                    print SALIDA $tablaCompleta;
+                #print $tablaCompleta;
+                open (SALIDA, ">>".join('',@directory_name)."/".$cabecera);
+                    say SALIDA $tablaCompleta;
                 close (SALIDA);
                 $tablaCompleta="";
                 $tabla="";
+                $finalTabla=false;
             }
-                
+            
         }
         #print $tablaCompleta;
 
