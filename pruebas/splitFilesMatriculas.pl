@@ -5,7 +5,7 @@
 #Para ejecutar este programa hay que instalar las librerías, JSON, Slurp y Switch
 
 use File::Slurp qw(read_file);
-use Text::CSV;
+use Text::CSV qw(getline);
 use File::Path qw(mkpath remove_tree);
 
 
@@ -17,18 +17,76 @@ use Switch;
 
 my %data;
 my $file_json;
+my $tabla;
+my $linea;
 
 sub principal {
     my $csv = Text::CSV->new ( { binary => 1 } )  # should set binary attribute.
                  or die "Cannot use CSV: ".Text::CSV->error_diag ();
     while (@ARGV) {
         my $file_name = shift @ARGV;
-        my @file_directory = split(".txt", $file_name);
+        my @directory_name = split(".txt", $file_name);
       
-        #my $file_data = read_file($file_name);
-        mkpath(@file_directory);
-#        while ($csv->eof ()){
-#            my $linea = $csv->getline ($file_data);
+        my $file_data = read_file($file_name);
+        mkpath(@directory_name);
+        #my $linea = $csv->getline ($file_data);
+
+        #my ($tabla) = ($file_data =~ /\s*[\d\w])/g);
+        my $cabecera;# = ($file_data =~ /.\).*/g);
+        #say $cabecera;
+        #my ($tabla) = ($file_data =~ /\|.*\|\n\n/g);
+        #my ($tabla) = ($file_data =~ /\s[\_\s]*[\d\w\s\|\_]*\|\n\n/g);
+        #say $tabla;
+
+        #my ($tabla2) = ($file_data =~ /\s[\_\s]*[\d\w\s\|\_]*\|\n\n/g);
+        #say $tabla2;
+        
+        #$linea = $csv->getline ($file_data);
+
+        open (ENTRADA,"<:encoding(utf8)", $file_name) or die "No se puede abrir salida";
+        my @lineas = <ENTRADA>;
+        my $tabla;
+        my $tablaCompleta;
+ #       while($linea = <ENTRADA>){
+            if($_ =~ /^\s?\n\s?$/){
+                say "PE";
+            }
+            say $_;
+ #       }
+        foreach $linea (@lineas){
+            if($linea =~ /(\s[\d\w]\).*$)/){
+                ($cabecera) = $1;
+                #say $1;
+                #print $cabecera;
+            }
+            if($linea =~ /\s*[\|\_]*/g){
+                ($tabla) = ($linea =~ m/$\s*\|.*\|$/g);
+               $tablaCompleta .= $tabla."\n";
+
+            }
+            if($linea =~ /^\n$/){
+                #print $cabecera;
+                
+                open (SALIDA, ">".join('',@directory_name)."/".$cabecera);
+                    print SALIDA $tablaCompleta;
+                close (SALIDA);
+                $tablaCompleta="";
+                $tabla="";
+            }
+                
+        }
+        #print $tablaCompleta;
+
+        #while (<SALIDA>){
+            #$linea = $csv->getline ($file_data);
+        #    say "HOLA";
+        #    chomp($_);
+            #say $_;
+        #    my @cabeceras = (@$_ =~ /.*/);
+        #    say $cabeceras[10];
+       #         say $cabecera;
+            
+            #say $linea;
         #Para formatear el archivo entero en csv (Sin terminar)
         #    open( ENTRADA, "$file_name") or die "No se puede abrir $file_name";
 
@@ -43,7 +101,8 @@ sub principal {
 #                    Mujeres => $mujeres,
 #                    Ordinarios => $ordinarias,
 #                    Mec => $mec };
-#        }
+        #}
+            close(ENTRADA);
     }
 #    $file_json = (to_json\%data);
 }
