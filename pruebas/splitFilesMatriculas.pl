@@ -43,7 +43,7 @@ sub principal {
         
         #$linea = $csv->getline ($file_data);
 
-        open (ENTRADA,"<:encoding(utf8)", $file_name) or die "No se puede abrir salida";
+        open (ENTRADA,"<:encoding(iso88591)", $file_name) or die "No se puede abrir salida";
         my @lineas = <ENTRADA>;
         my $tabla;
         my $tablaCompleta;
@@ -54,10 +54,8 @@ sub principal {
             say $_;
  #       }
         foreach $linea (@lineas){
-            if($linea =~ /(\s[\d\w]\).*$)/){
+            if($linea =~ /\s([\d\w]\).*$)/){
                 ($cabecera) = $1;
-                #say $1;
-                #print $cabecera;
             }
             if($linea =~ /\s*[\|\_]*/g){
                 ($tabla) = ($linea =~ m/$\s*\|.*\|$/g);
