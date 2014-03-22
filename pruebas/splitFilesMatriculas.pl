@@ -50,64 +50,35 @@ sub principal {
         my @lineas = <ENTRADA>;
         my $tabla;
         my $tablaCompleta;
- #       while($linea = <ENTRADA>){
-            if($_ =~ /^\s?\n\s?$/){
-                say "PE";
-            }
-            say $_;
- #       }
         my $finalTabla;
+        
         foreach $linea (@lineas){
-            if($linea =~ /\s([\d\w]\).*$)/){
+            if($linea =~ /\s(.\).*$)/){
                 ($cabecera) = $1;
             }
-            if($linea =~ /\s*[\|\_]*/g){
-                ($tabla) = ($linea =~ m/$\s*\|.*\|$/g);
-               $tablaCompleta .= $tabla."\n";
+            if($linea =~ /\s*[\|\_]*/){
+                
+                    ($tabla) = ($linea =~ m/$\s*\|.*\|$/g);
+                    $tablaCompleta .= $tabla."\n";
+
+                
                 $finalTabla = true;
             }
             if(($linea =~ /^\n$/) && $finalTabla){
                 #print $cabecera;
                 #print $tablaCompleta;
-                open (SALIDA, ">>".join('',@directory_name)."/".$cabecera);
+                $tablaCompleta =~ s/[\|]/,/g;
+                say $tablaCompleta;
+                open (SALIDA, ">".join('',@directory_name)."/".$cabecera);
                     say SALIDA $tablaCompleta;
                 close (SALIDA);
                 $tablaCompleta="";
                 $tabla="";
                 $finalTabla=false;
             }
-            
         }
-        #print $tablaCompleta;
-
-        #while (<SALIDA>){
-            #$linea = $csv->getline ($file_data);
-        #    say "HOLA";
-        #    chomp($_);
-            #say $_;
-        #    my @cabeceras = (@$_ =~ /.*/);
-        #    say $cabeceras[10];
-       #         say $cabecera;
-            
-            #say $linea;
-        #Para formatear el archivo entero en csv (Sin terminar)
-        #    open( ENTRADA, "$file_name") or die "No se puede abrir $file_name";
-
-
-#            $file_data =~ s/[\|\:]/,/g;
-#            $file_data =~ s/_/ /g;
-
-        #    print SALIDA $file_data;
-
-#            $data{$year} = { Alumnos => $alumnos,
-#                    Varones => $varones,
-#                    Mujeres => $mujeres,
-#                    Ordinarios => $ordinarias,
-#                    Mec => $mec };
-        #}
-            close(ENTRADA);
+        close(ENTRADA);
     }
-#    $file_json = (to_json\%data);
 }
 
 sub text_to_json {
