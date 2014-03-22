@@ -58,7 +58,7 @@ sub principal {
             }
             if($linea =~ /\s*[\|\_]*/){
                 
-                    ($tabla) = ($linea =~ m/$\s*\|.*\|$/g);
+                    ($tabla) = ($linea =~ m/\|.*\|$/g);
                     $tablaCompleta .= $tabla."\n";
 
                 
@@ -67,7 +67,16 @@ sub principal {
             if(($linea =~ /^\n$/) && $finalTabla){
                 #print $cabecera;
                 #print $tablaCompleta;
-                $tablaCompleta =~ s/[\|]/,/g;
+                $tablaCompleta =~ s/[\|]/\,/g;
+                #Se quitan los números que muestran los porcentajes
+                $tablaCompleta =~ s/(\d+)\s+(\d+.\d*)/$1/g;
+                $tablaCompleta =~ s/%//g;
+ #               $tablaCompleta =~ s/[\_]//g;
+  #              $tablaCompleta =~ s/(\,{2,})//g;
+   #             $tablaCompleta =~ s/(\,\n)/\n/g;
+    #            $tablaCompleta =~ s/((,\s))//g;
+     #           $tablaCompleta =~ s/(\d)*/$1,/;
+                #$tablaCompleta =~ s/(\,\s*){2,}//g;
                 say $tablaCompleta;
                 open (SALIDA, ">".join('',@directory_name)."/".$cabecera);
                     say SALIDA $tablaCompleta;
