@@ -77,13 +77,14 @@ sub principal {
                 $tablaCompleta =~ s/,\n/\n/g;
                 $tablaCompleta =~ s/(\,\_+)+//g;
                 $tablaCompleta =~ s/[\|]/\,/g;
-                $tablaCompleta =~ s/[\_]//g;
+                $tablaCompleta =~ s/\_//g;
                 $tablaCompleta =~ s/(\,{2,})//g;
                 $tablaCompleta =~ s/(\,\n)/\n/g;
                 $tablaCompleta =~ s/\s+([\w\d]*)/$1/;
                 $tablaCompleta =~ s/(\,\s*){2,}//g;
+                $tablaCompleta =~ s/\s*\n/\n/g;
                 print $tablaCompleta;
-                open (SALIDA, ">>".join('',@directory_name)."/".$cabecera);
+                open (SALIDA, ">>".join('',@directory_name)."/".$cabecera.".csv");
                     print SALIDA $tablaCompleta;
                 close (SALIDA);
                 $tablaCompleta="";
