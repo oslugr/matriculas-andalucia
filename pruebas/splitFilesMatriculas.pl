@@ -80,9 +80,7 @@ sub principal {
                 $tablaCompleta =~ s/[\_]//g;
                 $tablaCompleta =~ s/(\,{2,})//g;
                 $tablaCompleta =~ s/(\,\n)/\n/g;
-                #$tablaCompleta =~ s/[^\w\d,\n\(\) ]//g;
                 $tablaCompleta =~ s/\s+([\w\d]*)/$1/;
-     #           $tablaCompleta =~ s/(\d)*/$1,/;
                 $tablaCompleta =~ s/(\,\s*){2,}//g;
                 print $tablaCompleta;
                 open (SALIDA, ">>".join('',@directory_name)."/".$cabecera);
