@@ -115,30 +115,7 @@ sub principal {
 }
 
 #Cabecera del documento
-
-print "Escoge una opción: \n"; 
-print "1. Separar tablas y exportar a csv\n";
-print "2. Nada\n";
-print "3. Nada\n";
-print "4. Salir\n";
-print "Opción: " ;
-#my $valor = <STDIN> ;
-my $valor = 1;
-while ($valor < 1 || $valor > 4){
-    print "Error al escoger la opción\n\n";
-            print "Escoge una opción: \n"; 
-            print "1. Separar tablas y exportar a csv\n";
-            print "2. Nada\n";
-            print "3. Nada\n";
-            print "4. Salir\n";
-            print "Opción: " ;
-            $valor = <STDIN> ;
-}
-switch ($valor) {
-    case 1  {   principal();}
-    case 2 {     }
-    case 3 {    }
-    case 4 {exit(1);}
-    else { 
-    }
-}
+say "[Separando tablas y exportando a .csv]";
+say "--> Se crearán subcarpetas con el nombre del archivo pasado por argumento sin la extensión.";
+principal();
+say "[Ejecución terminada con éxito]";
