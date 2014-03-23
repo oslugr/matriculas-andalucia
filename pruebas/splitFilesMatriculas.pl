@@ -57,29 +57,36 @@ sub principal {
                 ($cabecera) = $1;
             }
             if($linea =~ /\s*[\|\_]*/){
-                
-                    ($tabla) = ($linea =~ m/\|.*\|$/g);
-                    $tablaCompleta .= $tabla."\n";
-
-                
+            
+                ($tabla) = ($linea =~ /\|.*\|$/g);
+                #Le quito la primera barra y la última a las líneas
+                $tabla =~ s/(\|)//;
+                $tabla =~ s/\s+([\w\d]*)/$1/;
+                $tablaCompleta .= $tabla."\n";
                 $finalTabla = true;
             }
             if(($linea =~ /^\n$/) && $finalTabla){
                 #print $cabecera;
                 #print $tablaCompleta;
-                $tablaCompleta =~ s/[\|]/\,/g;
                 #Se quitan los números que muestran los porcentajes
-                $tablaCompleta =~ s/(\d+)\s+(\d+.\d*)/$1/g;
+                #$tablaCompleta =~ s/([^\ ]\|)//;
+                $tablaCompleta =~ s/(\d+)\ +(\d+.\d*)/$1/g;
+                #Se quitan el símbolo de los porcentajes
                 $tablaCompleta =~ s/%//g;
- #               $tablaCompleta =~ s/[\_]//g;
-  #              $tablaCompleta =~ s/(\,{2,})//g;
-   #             $tablaCompleta =~ s/(\,\n)/\n/g;
-    #            $tablaCompleta =~ s/((,\s))//g;
+                #Se eliminan líneas con comas y espacios
+                $tablaCompleta =~ s/,\n/\n/g;
+                $tablaCompleta =~ s/(\,\_+)+//g;
+                $tablaCompleta =~ s/[\|]/\,/g;
+                $tablaCompleta =~ s/[\_]//g;
+                $tablaCompleta =~ s/(\,{2,})//g;
+                $tablaCompleta =~ s/(\,\n)/\n/g;
+                #$tablaCompleta =~ s/[^\w\d,\n\(\) ]//g;
+                $tablaCompleta =~ s/\s+([\w\d]*)/$1/;
      #           $tablaCompleta =~ s/(\d)*/$1,/;
-                #$tablaCompleta =~ s/(\,\s*){2,}//g;
-                say $tablaCompleta;
-                open (SALIDA, ">".join('',@directory_name)."/".$cabecera);
-                    say SALIDA $tablaCompleta;
+                $tablaCompleta =~ s/(\,\s*){2,}//g;
+                print $tablaCompleta;
+                open (SALIDA, ">>".join('',@directory_name)."/".$cabecera);
+                    print SALIDA $tablaCompleta;
                 close (SALIDA);
                 $tablaCompleta="";
                 $tabla="";
