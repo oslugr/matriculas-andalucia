@@ -44,21 +44,23 @@ sub principal {
         
         foreach $linea (@lineas){
             #Indica que tipo de matriculación se está extrayendo
-            if($linea =~ /Matrícula: TODA/i){
+            if($linea =~ /Matr.cula: TODA/i){
                 $matriculacion = "TODA";
                 mkpath(join('',@directory_name)."/TODA");
             }else {
-                if($linea =~ /Matrícula: OFICIAL/i){
+                if($linea =~ /Matr.cula: OFICIAL/i){
                     $matriculacion = "OFICIAL";
                     mkpath(join('',@directory_name)."/OFICIAL");
                 }else {
-                    if($linea =~ /Matrícula: LIBRE/i){
+                    if($linea =~ /Matr.cula: LIBRE/i){
                         $matriculacion = "LIBRE";
                         mkpath(join('',@directory_name)."/LIBRE");
                     }
                 }
             }
 
+            $linea =~ s/<.*>(.*)<\/.*>/$1/g;
+            
             if($linea =~ /\s(.\).*$)/){
                 ($cabecera) = $1;
             }
