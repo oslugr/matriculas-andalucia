@@ -5,17 +5,14 @@
 #Para ejecutar este programa hay que instalar las librerías, JSON, Slurp y Switch
 
 use File::Slurp qw(read_file);
-use Text::CSV qw(getline);
-use File::Path qw(mkpath remove_tree);
+use File::Path qw(mkpath);
 
 
 use v5.014;
 
-use JSON;
 use strict;
 use Switch;
 
-my %data;
 my $file_json;
 my $tabla;
 my $linea;
@@ -24,8 +21,6 @@ use constant false => 0;
 use constant true  => 1;
 
 sub principal {
-    my $csv = Text::CSV->new ( { binary => 1 } )  # should set binary attribute.
-                 or die "Cannot use CSV: ".Text::CSV->error_diag ();
     while (@ARGV) {
         my $file_name = shift @ARGV;
         my @directory_name = split(".txt", $file_name);
@@ -117,37 +112,6 @@ sub principal {
         }
         close(ENTRADA);
     }
-}
-
-sub text_to_json {
-    open( SALIDA, ">matriculas-becas-ugr.json") or die "No se puede abrir matriculas-becas-ugr.json";
-    print SALIDA (to_json\%data);
-    close(SALIDA);
-}
-
-sub json_to_csv{
-    open( SALIDA, ">matriculas-becas-ugr.csv") or die "No se puede abrir matriculas-becas-ugr.csv";
-    
-    my $hash =from_json( $file_json );
-
-    my %keys;
-
-    for my $k (keys %$hash ) {
-        for my $l (keys %{$hash->{$k}} ) {
-        $keys{$l} = 1;
-        }
-    }
-
-    say SALIDA "Año,",join(",", keys %keys );
-    for my $k (sort { $a <=> $b } keys %$hash ) {
-        my $line = "$k";
-        for my $l (keys %keys ) {
-        $line .= ",".$hash->{$k}->{$l};
-        }
-        say SALIDA $line;
-    }
-
-    close (SALIDA);
 }
 
 #Cabecera del documento
