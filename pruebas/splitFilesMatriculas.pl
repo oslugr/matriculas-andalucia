@@ -96,9 +96,9 @@ sub principal {
                 #Se eliminan todos los guiones bajos _
                 $tablaCompleta =~ s/\_//g;
                 #Se quitan todas las , que haya seguidas, resultado de las anteriores expresiones.
-                $tablaCompleta =~ s/(\,{2,})//g;
+            #    $tablaCompleta =~ s/(\,{2,})//g;
                 #Se quita la coma del final de línea.
-                $tablaCompleta =~ s/(\,\n)/\n/g;
+            #    $tablaCompleta =~ s/(\,\n)/\n/g;
                 #Se quitan espacios a principio de línea
                 #$tablaCompleta =~ s/\s+([\w\d]*)/$1/;
                 #Se eliminan líneas que solo tienen , y espacios en blanco.
