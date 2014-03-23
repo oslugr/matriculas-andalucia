@@ -35,7 +35,6 @@ sub principal {
 
         my $cabecera;
 
-
         open (ENTRADA,"<:encoding(iso88591)", $file_name) or die "No se puede abrir el archivo ".$file_name;
         my @lineas = <ENTRADA>;
         my $tabla;
@@ -59,10 +58,15 @@ sub principal {
                 }
             }
 
+            #Quita de todos las etiquetas de las líneas, principalmente <b> </b>
             $linea =~ s/<.*>(.*)<\/.*>/$1/g;
             
-            if($linea =~ /\s(.\).*$)/){
+            if($linea =~ /\s(\d\).*$)/){
                 ($cabecera) = $1;
+            }else {
+                if($linea =~ /\s(\w\).*$)/){
+                    $cabecera = substr($cabecera,0,1).".".$1;
+                }
             }
             if($linea =~ /\s*[\|\_]*/){
             
