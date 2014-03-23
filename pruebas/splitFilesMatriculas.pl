@@ -61,41 +61,52 @@ sub principal {
             #Quita de todos las etiquetas de las líneas, principalmente <b> </b>
             $linea =~ s/<.*>(.*)<\/.*>/$1/g;
             
+            #Comprueba si la línea es del tipo 1) MATRICULAS UNIVERSITARIAS
             if($linea =~ /\s(\d\).*$)/){
+                #Almaceno la cabecera tal cual
                 ($cabecera) = $1;
             }else {
+                #Comprueba si la línea es del tipo a) Varones de las mastrículas.
                 if($linea =~ /\s(\w\).*$)/){
+                    #En caso de ser a) varones de las matrículas... añade de qué tabla es.
                     $cabecera = substr($cabecera,0,1).".".$1;
                 }
             }
+            # Comprueba si en la línea hay | ó _
             if($linea =~ /\s*[\|\_]*/){
-            
+                #Guarda en $tabla las cadenas que contienen |........|
                 ($tabla) = ($linea =~ /\|.*\|$/g);
-                #Le quito la primera barra y la última a las líneas
+                #Le quito la primera barra a la línea si la tiene.
                 $tabla =~ s/(\|)//;
+                #Elimino espacios a principio de la línea.
                 $tabla =~ s/\s+([\w\d]*)/$1/;
                 $tablaCompleta .= $tabla."\n";
                 $finalTabla = true;
             }
             if(($linea =~ /^\n$/) && $finalTabla){
-                #print $cabecera;
-                #print $tablaCompleta;
                 #Se quitan los números que muestran los porcentajes
-                #$tablaCompleta =~ s/([^\ ]\|)//;
                 $tablaCompleta =~ s/(\d+)\ +(\d+.\d*)/$1/g;
                 #Se quitan el símbolo de los porcentajes
                 $tablaCompleta =~ s/%//g;
                 #Se eliminan líneas con comas y espacios
                 $tablaCompleta =~ s/,\n/\n/g;
+                #Se eliminan líneas que tienen son del tipo |_____|______|
                 $tablaCompleta =~ s/(\,\_+)+//g;
+                #Se cambian | por ,
                 $tablaCompleta =~ s/[\|]/\,/g;
+                #Se eliminan todos los guiones bajos _
                 $tablaCompleta =~ s/\_//g;
+                #Se quitan todas las , que haya seguidas, resultado de las anteriores expresiones.
                 $tablaCompleta =~ s/(\,{2,})//g;
+                #Se quita la coma del final de línea.
                 $tablaCompleta =~ s/(\,\n)/\n/g;
-                $tablaCompleta =~ s/\s+([\w\d]*)/$1/;
+                #Se quitan espacios a principio de línea
+                #$tablaCompleta =~ s/\s+([\w\d]*)/$1/;
+                #Se eliminan líneas que solo tienen , y espacios en blanco.
                 $tablaCompleta =~ s/(\,\s*){2,}//g;
+                #Se cambian espacios con nueva línea por nueva línea solo.
                 $tablaCompleta =~ s/\s*\n/\n/g;
-                print $tablaCompleta;
+                #print $tablaCompleta;
                 open (SALIDA, ">>".join('',@directory_name)."/".$matriculacion."/".$cabecera.".csv");
                     print SALIDA $tablaCompleta;
                 close (SALIDA);
