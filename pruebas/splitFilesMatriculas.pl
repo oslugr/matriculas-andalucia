@@ -81,8 +81,12 @@ sub principal {
             if(($linea =~ /^\n$/) && $finalTabla){
                 #Se quitan los números que muestran los porcentajes
                 $tablaCompleta =~ s/(\d+)\ +(\d+.\d*)/$1/g;
+                #
+                $tablaCompleta =~ s/(\w*\s)%(\s+\w)/$1,$2/g;
+                #
+                $tablaCompleta =~ s/(NOREP)/$1,/g;  
                 #Se quitan el símbolo de los porcentajes
-                $tablaCompleta =~ s/%//g;
+                $tablaCompleta =~ s/(%|RP%)//g;
                 #Se eliminan líneas con comas y espacios
                 $tablaCompleta =~ s/,\n/\n/g;
                 #Se eliminan líneas que tienen son del tipo |_____|______|
@@ -101,6 +105,7 @@ sub principal {
                 $tablaCompleta =~ s/(\,\s*){2,}//g;
                 #Se cambian espacios con nueva línea por nueva línea solo.
                 $tablaCompleta =~ s/\s*\n/\n/g;
+
                 #print $tablaCompleta;
                 open (SALIDA, ">>".join('',@directory_name)."/".$matriculacion."/".$cabecera.".csv");
                     print SALIDA $tablaCompleta;
@@ -115,7 +120,7 @@ sub principal {
 }
 
 #Cabecera del documento
+principal();
 say "[Separando tablas y exportando a .csv]";
 say "--> Se crearán subcarpetas con el nombre del archivo pasado por argumento sin la extensión.";
-principal();
 say "[Ejecución terminada con éxito]";
