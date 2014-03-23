@@ -75,6 +75,8 @@ sub principal {
                 $tabla =~ s/(\|)//;
                 #Elimino espacios a principio de la línea.
                 $tabla =~ s/\s+([\w\d]*)/$1/;
+                #Quitamos todas las filas que no tienen texto
+                $tabla =~ s/^([\s\|]+$)//;
                 $tablaCompleta .= $tabla."\n";
                 $finalTabla = true;
             }
@@ -97,12 +99,14 @@ sub principal {
                 $tablaCompleta =~ s/\_//g;
                 #Se quitan todas las , que haya seguidas, resultado de las anteriores expresiones.
             #    $tablaCompleta =~ s/(\,{2,})//g;
+                $tablaCompleta =~ s/ +/ /g;
                 #Se quita la coma del final de línea.
-            #    $tablaCompleta =~ s/(\,\n)/\n/g;
+                $tablaCompleta =~ s/(\,\n)/\n/g;
                 #Se quitan espacios a principio de línea
                 #$tablaCompleta =~ s/\s+([\w\d]*)/$1/;
-                #Se eliminan líneas que solo tienen , y espacios en blanco.
-                $tablaCompleta =~ s/(\,\s*){2,}//g;
+                #Se eliminan líneas que solo tienen , 
+                $tablaCompleta =~ s/(\,){2,}//g;
+                $tablaCompleta =~ s/\n,\s\n/\n/g;
                 #Se cambian espacios con nueva línea por nueva línea solo.
                 $tablaCompleta =~ s/\s*\n/\n/g;
 
