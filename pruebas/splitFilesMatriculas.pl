@@ -19,7 +19,7 @@ my %data;
 my $file_json;
 my $tabla;
 my $linea;
-
+my $matriculacion;
 use constant false => 0;
 use constant true  => 1;
 
@@ -32,27 +32,33 @@ sub principal {
       
         my $file_data = read_file($file_name);
         mkpath(@directory_name);
-        #my $linea = $csv->getline ($file_data);
 
-        #my ($tabla) = ($file_data =~ /\s*[\d\w])/g);
-        my $cabecera;# = ($file_data =~ /.\).*/g);
-        #say $cabecera;
-        #my ($tabla) = ($file_data =~ /\|.*\|\n\n/g);
-        #my ($tabla) = ($file_data =~ /\s[\_\s]*[\d\w\s\|\_]*\|\n\n/g);
-        #say $tabla;
+        my $cabecera;
 
-        #my ($tabla2) = ($file_data =~ /\s[\_\s]*[\d\w\s\|\_]*\|\n\n/g);
-        #say $tabla2;
-        
-        #$linea = $csv->getline ($file_data);
 
-        open (ENTRADA,"<:encoding(iso88591)", $file_name) or die "No se puede abrir salida";
+        open (ENTRADA,"<:encoding(iso88591)", $file_name) or die "No se puede abrir el archivo ".$file_name;
         my @lineas = <ENTRADA>;
         my $tabla;
         my $tablaCompleta;
         my $finalTabla;
         
         foreach $linea (@lineas){
+            #Indica que tipo de matriculación se está extrayendo
+            if($linea =~ /Matrícula: TODA/i){
+                $matriculacion = "TODA";
+                mkpath(join('',@directory_name)."/TODA");
+            }else {
+                if($linea =~ /Matrícula: OFICIAL/i){
+                    $matriculacion = "OFICIAL";
+                    mkpath(join('',@directory_name)."/OFICIAL");
+                }else {
+                    if($linea =~ /Matrícula: LIBRE/i){
+                        $matriculacion = "LIBRE";
+                        mkpath(join('',@directory_name)."/LIBRE");
+                    }
+                }
+            }
+
             if($linea =~ /\s(.\).*$)/){
                 ($cabecera) = $1;
             }
@@ -84,7 +90,7 @@ sub principal {
                 $tablaCompleta =~ s/(\,\s*){2,}//g;
                 $tablaCompleta =~ s/\s*\n/\n/g;
                 print $tablaCompleta;
-                open (SALIDA, ">>".join('',@directory_name)."/".$cabecera.".csv");
+                open (SALIDA, ">>".join('',@directory_name)."/".$matriculacion."/".$cabecera.".csv");
                     print SALIDA $tablaCompleta;
                 close (SALIDA);
                 $tablaCompleta="";
