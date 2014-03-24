@@ -123,7 +123,7 @@ sub principal {
                 #Quitamos esta cadena para poder visualizarlo bien,
                 $tablaCompleta =~ s/\s?del , con asignaturas de\s?\n?//;
                 #Filtro específico para quitar las comas a CONY e HIJ
-                $tablaCompleta =~ s/\,(CONY),(HIJ)/ $1\-$2/g;
+                $tablaCompleta =~ s/(CONY),(HIJ)/$1\-$2/g;
                 #print $tablaCompleta;
                 open (SALIDA, '>>:encoding(utf-8)', join('',@directory_name)."/".$matriculacion."/".$cabecera.".csv");
                     print SALIDA $tablaCompleta;
