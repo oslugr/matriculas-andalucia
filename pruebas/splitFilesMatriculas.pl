@@ -12,7 +12,8 @@ use v5.014;
 
 use strict;
 use Switch;
-
+use utf8;
+use open 'locale'; 
 my $file_json;
 my $tabla;
 my $linea;
@@ -30,7 +31,7 @@ sub principal {
 
         my $cabecera;
 
-        open (ENTRADA,"<:encoding(iso88591)", $file_name) or die "No se puede abrir el archivo ".$file_name;
+        open (ENTRADA, '<:encoding(utf-8)', $file_name) or die "No se puede abrir el archivo ".$file_name;
         my @lineas = <ENTRADA>;
         my $tabla;
         my $tablaCompleta;
@@ -52,7 +53,6 @@ sub principal {
                     }
                 }
             }
-
             #Quita de todos las etiquetas de las líneas, principalmente <b> </b>
             $linea =~ s/<.*>(.*)<\/.*>/$1/g;
             
@@ -77,15 +77,23 @@ sub principal {
                 $tabla =~ s/\s+([\w\d]*)/$1/;
                 #Quitamos todas las filas que no tienen texto
                 $tabla =~ s/^([\s\|]+$)//;
+                #Si hay alguna coma en una celda, metemos todo entre comillas
+                $tabla =~ s/(\w+, ?\w+)/\"$1\"/g;
                 $tablaCompleta .= $tabla."\n";
                 $finalTabla = true;
             }
             if(($linea =~ /^\n$/) && $finalTabla){
+                #Si hay 3 números en una misma celda, que se elimine el último y se separen los dos primeros
+                $tablaCompleta =~ s/(\d+) +(\d+) +(\d+.\d+)/$1,$2/g;
                 #Se quitan los números que muestran los porcentajes
-                $tablaCompleta =~ s/(\d+)\ +(\d+.\d*)/$1/g;
-                #
+                $tablaCompleta =~ s/(\d+) +(\d+.\d+)/$1/g;
+                #Añadimos una , si Varones Mujeres ó Total no tiene nada más en la celda.
+                $tablaCompleta =~ s/\|\s+(VARONES)\s+\|/\| $1, \|/g;
+                $tablaCompleta =~ s/\|\s+(MUJERES)\s+\|/\| $1, \|/g;
+                $tablaCompleta =~ s/\|\s+(TOTALES)\s+\|/\| $1, \|/g;
+                #Si hay una fila con texto o díjitos y un porcentaje en medio, cambiamos el % por una coma
                 $tablaCompleta =~ s/(\w*\s)%(\s+\w)/$1,$2/g;
-                #
+                #Separamos los diferentes números en diferentes celdas
                 $tablaCompleta =~ s/(NOREP)/$1,/g;  
                 #Se quitan el símbolo de los porcentajes
                 $tablaCompleta =~ s/(%|RP%)//g;
@@ -106,17 +114,22 @@ sub principal {
                 #$tablaCompleta =~ s/\s+([\w\d]*)/$1/;
                 #Se eliminan líneas que solo tienen , 
                 $tablaCompleta =~ s/(\,){2,}//g;
+                #Quitamos las comas solitarias en una fila
                 $tablaCompleta =~ s/\n,\s\n/\n/g;
+                #Quitamos las filas vacías con espacios en blanco
+                $tablaCompleta =~ s/\n\s*\n/\n/g;
                 #Se cambian espacios con nueva línea por nueva línea solo.
-                $tablaCompleta =~ s/\s*\n/\n/g;
+                $tablaCompleta =~ s/\n +/\n/g;
 
                 #print $tablaCompleta;
-                open (SALIDA, ">>".join('',@directory_name)."/".$matriculacion."/".$cabecera.".csv");
+                open (SALIDA, '>>:encoding(utf-8)', join('',@directory_name)."/".$matriculacion."/".$cabecera.".csv");
                     print SALIDA $tablaCompleta;
                 close (SALIDA);
                 $tablaCompleta="";
                 $tabla="";
                 $finalTabla=false;
+                #my @string = join('',@directory_name)."/".$matriculacion."/".$cabecera.".csv");
+                #print $cabecera;
             }
         }
         close(ENTRADA);
