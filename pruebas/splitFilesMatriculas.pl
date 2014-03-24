@@ -120,6 +120,8 @@ sub principal {
                 $tablaCompleta =~ s/\n\s*\n/\n/g;
                 #Se quitan las filas vacías
                 $tablaCompleta =~ s/\n+//;
+                #Quitamos esta cadena para poder visualizarlo bien,
+                $tablaCompleta =~ s/\s?del , con asignaturas de\s?\n?//;
                 #print $tablaCompleta;
                 open (SALIDA, '>>:encoding(utf-8)', join('',@directory_name)."/".$matriculacion."/".$cabecera.".csv");
                     print SALIDA $tablaCompleta;
