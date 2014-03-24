@@ -90,7 +90,7 @@ sub principal {
                 #Añadimos una , si Varones Mujeres ó Total no tiene nada más en la celda.
                 $tablaCompleta =~ s/\|\s+(VARONES)\s+\|/\| $1, \|/g;
                 $tablaCompleta =~ s/\|\s+(MUJERES)\s+\|/\| $1, \|/g;
-                $tablaCompleta =~ s/\|\s+(TOTALES)\s+\|/\| $1, \|/g;
+                #$tablaCompleta =~ s/\|\s+(TOTALES)\s+\|/\| $1, \|/g;
                 #Si hay una fila con texto o díjitos y un porcentaje en medio, cambiamos el % por una coma
                 $tablaCompleta =~ s/(\w*\s)%(\s+\w)/$1,$2/g;
                 #Separamos los diferentes números en diferentes celdas
@@ -118,9 +118,8 @@ sub principal {
                 $tablaCompleta =~ s/\n,\s\n/\n/g;
                 #Quitamos las filas vacías con espacios en blanco
                 $tablaCompleta =~ s/\n\s*\n/\n/g;
-                #Se cambian espacios con nueva línea por nueva línea solo.
-                $tablaCompleta =~ s/\n +/\n/g;
-
+                #Se quitan las filas vacías
+                $tablaCompleta =~ s/\n+//;
                 #print $tablaCompleta;
                 open (SALIDA, '>>:encoding(utf-8)', join('',@directory_name)."/".$matriculacion."/".$cabecera.".csv");
                     print SALIDA $tablaCompleta;
