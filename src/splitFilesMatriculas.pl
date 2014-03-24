@@ -90,7 +90,7 @@ sub principal {
                 #Añadimos una , si Varones Mujeres ó Total no tiene nada más en la celda.
                 $tablaCompleta =~ s/\|\s+(VARONES)\s+\|/\| $1, \|/g;
                 $tablaCompleta =~ s/\|\s+(MUJERES)\s+\|/\| $1, \|/g;
-                #$tablaCompleta =~ s/\|\s+(TOTALES)\s+\|/\| $1, \|/g;
+                $tablaCompleta =~ s/\|\s+(TOTALES)\s+\|\n/\| $1, \|\n/g;
                 #Si hay una fila con texto o díjitos y un porcentaje en medio, cambiamos el % por una coma
                 $tablaCompleta =~ s/(\w*\s)%(\s+\w)/$1,$2/g;
                 #Separamos los diferentes números en diferentes celdas
