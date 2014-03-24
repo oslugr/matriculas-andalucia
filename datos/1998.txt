@@ -26,9 +26,9 @@
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS OFICIALES ....... 58920
+          N√öMERO TOTAL DE ALUMNOS OFICIALES ....... 58920
 
-          N⁄MERO TOTAL DE ALUMNOS LIBRES ..........   583
+          N√öMERO TOTAL DE ALUMNOS LIBRES ..........   583
                                                   _________
 
                                   T O T A L ....... 59503
@@ -41,14 +41,14 @@
 <a name="999110"></a><b>          <b>UNIVERSIDAD DE GRANADA</b>
 
 
-          MatrÌcula: TODA
+          Matr√≠cula: TODA
           Curso: 1998/99</b>
 
 
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS: 59503  100.0%
+          N√öMERO TOTAL DE ALUMNOS: 59503  100.0%
                           VARONES: 25719   43.2%
                           MUJERES: 33784   56.8%
 
@@ -60,7 +60,7 @@
 
 
 
-          1) <b>DISTRIBUCI”N DE ALUMNOS POR EDADES</b>
+          1) <b>DISTRIBUCI√ìN DE ALUMNOS POR EDADES</b>
 
 
            _____________ _____________ _____________ _____________ 
@@ -95,7 +95,7 @@
 
 
 
-       2) <b>DISTRIBUCI”N DE ALUMNOS POR CURSOS</b>
+       2) <b>DISTRIBUCI√ìN DE ALUMNOS POR CURSOS</b>
 
 
         _________ _____________ _____________ _____________ 
@@ -165,7 +165,7 @@
 
 
 
-      3) <b>DISTRIBUCI”N DE ALUMNOS REPETIDORES</b>
+      3) <b>DISTRIBUCI√ìN DE ALUMNOS REPETIDORES</b>
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -235,7 +235,7 @@
 
 
 
-       4) <b>DISTRIBUCI”N DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
+       4) <b>DISTRIBUCI√ìN DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -259,7 +259,7 @@
        | CEUTA                |   300   1.2 |   441   1.3 |   741   1.2 |
        | CIUDAD REAL          |   134   0.5 |   249   0.7 |   383   0.6 |
        | CORDOBA              |   781   3.0 |  1097   3.2 |  1878   3.2 |
-       | CORU—A, LA           |    20   0.1 |    58   0.2 |    78   0.1 |
+       | CORU√ëA, LA           |    20   0.1 |    58   0.2 |    78   0.1 |
        | CUENCA               |     6   0.0 |    12   0.0 |    18   0.0 |
        | EXTRANJERO           |   421   1.6 |   536   1.6 |   957   1.6 |
        | GERONA               |    31   0.1 |    42   0.1 |    73   0.1 |
@@ -360,7 +360,7 @@
 
 
 
-       5) <b>DISTRIBUCI”N DE ALUMNOS POR NACIONALIDAD</b>
+       5) <b>DISTRIBUCI√ìN DE ALUMNOS POR NACIONALIDAD</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -451,7 +451,7 @@
 
 
 
-          6) <b>DISTRIBUCI”N DE ALUMNOS POR CLASE DE MATRÕCULA</b>
+          6) <b>DISTRIBUCI√ìN DE ALUMNOS POR CLASE DE MATR√çCULA</b>
 
 
            ________________________________ _____________
@@ -482,7 +482,7 @@
 
 
 
-          7) <b>DISTRIBUCI”N DE ALUMNOS POR TIPO DE BECA</b>
+          7) <b>DISTRIBUCI√ìN DE ALUMNOS POR TIPO DE BECA</b>
 
 
            ________________________________ _____________
@@ -514,14 +514,14 @@
 <a name="999111"></a><b>          <b>UNIVERSIDAD DE GRANADA</b>
 
 
-          MatrÌcula: OFICIAL
+          Matr√≠cula: OFICIAL
           Curso: 1998/99</b>
 
 
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS: 58920  100.0%
+          N√öMERO TOTAL DE ALUMNOS: 58920  100.0%
                           VARONES: 25590   43.4%
                           MUJERES: 33330   56.6%
 
@@ -533,7 +533,7 @@
 
 
 
-          1) <b>DISTRIBUCI”N DE ALUMNOS POR EDADES</b>
+          1) <b>DISTRIBUCI√ìN DE ALUMNOS POR EDADES</b>
 
 
            _____________ _____________ _____________ _____________ 
@@ -568,7 +568,7 @@
 
 
 
-       2) <b>DISTRIBUCI”N DE ALUMNOS POR CURSOS</b>
+       2) <b>DISTRIBUCI√ìN DE ALUMNOS POR CURSOS</b>
 
 
         _________ _____________ _____________ _____________ 
@@ -638,7 +638,7 @@
 
 
 
-      3) <b>DISTRIBUCI”N DE ALUMNOS REPETIDORES</b>
+      3) <b>DISTRIBUCI√ìN DE ALUMNOS REPETIDORES</b>
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -708,7 +708,7 @@
 
 
 
-       4) <b>DISTRIBUCI”N DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
+       4) <b>DISTRIBUCI√ìN DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -732,7 +732,7 @@
        | CEUTA                |   300   1.2 |   441   1.3 |   741   1.3 |
        | CIUDAD REAL          |   133   0.5 |   246   0.7 |   379   0.6 |
        | CORDOBA              |   773   3.0 |  1096   3.3 |  1869   3.2 |
-       | CORU—A, LA           |    19   0.1 |    58   0.2 |    77   0.1 |
+       | CORU√ëA, LA           |    19   0.1 |    58   0.2 |    77   0.1 |
        | CUENCA               |     6   0.0 |    12   0.0 |    18   0.0 |
        | EXTRANJERO           |   416   1.6 |   523   1.6 |   939   1.6 |
        | GERONA               |    31   0.1 |    42   0.1 |    73   0.1 |
@@ -833,7 +833,7 @@
 
 
 
-       5) <b>DISTRIBUCI”N DE ALUMNOS POR NACIONALIDAD</b>
+       5) <b>DISTRIBUCI√ìN DE ALUMNOS POR NACIONALIDAD</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -921,7 +921,7 @@
 
 
 
-          6) <b>DISTRIBUCI”N DE ALUMNOS POR CLASE DE MATRÕCULA</b>
+          6) <b>DISTRIBUCI√ìN DE ALUMNOS POR CLASE DE MATR√çCULA</b>
 
 
            ________________________________ _____________
@@ -952,7 +952,7 @@
 
 
 
-          7) <b>DISTRIBUCI”N DE ALUMNOS POR TIPO DE BECA</b>
+          7) <b>DISTRIBUCI√ìN DE ALUMNOS POR TIPO DE BECA</b>
 
 
            ________________________________ _____________
@@ -984,14 +984,14 @@
 <a name="999112"></a><b>          <b>UNIVERSIDAD DE GRANADA</b>
 
 
-          MatrÌcula: LIBRE
+          Matr√≠cula: LIBRE
           Curso: 1998/99</b>
 
 
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS:   583  100.0%
+          N√öMERO TOTAL DE ALUMNOS:   583  100.0%
                           VARONES:   129   22.1%
                           MUJERES:   454   77.9%
 
@@ -1003,7 +1003,7 @@
 
 
 
-          1) <b>DISTRIBUCI”N DE ALUMNOS POR EDADES</b>
+          1) <b>DISTRIBUCI√ìN DE ALUMNOS POR EDADES</b>
 
 
            _____________ _____________ _____________ _____________ 
@@ -1038,7 +1038,7 @@
 
 
 
-       2) <b>DISTRIBUCI”N DE ALUMNOS POR CURSOS</b>
+       2) <b>DISTRIBUCI√ìN DE ALUMNOS POR CURSOS</b>
 
 
         _________ _____________ _____________ _____________ 
@@ -1108,7 +1108,7 @@
 
 
 
-      3) <b>DISTRIBUCI”N DE ALUMNOS REPETIDORES</b>
+      3) <b>DISTRIBUCI√ìN DE ALUMNOS REPETIDORES</b>
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -1178,7 +1178,7 @@
 
 
 
-       4) <b>DISTRIBUCI”N DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
+       4) <b>DISTRIBUCI√ìN DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -1196,7 +1196,7 @@
        | CASTELLON            |     1   0.8 |     0   0.0 |     1   0.2 |
        | CIUDAD REAL          |     1   0.8 |     3   0.7 |     4   0.7 |
        | CORDOBA              |     8   6.2 |     1   0.2 |     9   1.5 |
-       | CORU—A, LA           |     1   0.8 |     0   0.0 |     1   0.2 |
+       | CORU√ëA, LA           |     1   0.8 |     0   0.0 |     1   0.2 |
        | EXTRANJERO           |     5   3.9 |    13   2.9 |    18   3.1 |
        | GRANADA              |    62  48.1 |    46  10.1 |   108  18.5 |
        | GUADALAJARA          |     0   0.0 |     1   0.2 |     1   0.2 |
@@ -1223,7 +1223,7 @@
 
 
 
-       5) <b>DISTRIBUCI”N DE ALUMNOS POR NACIONALIDAD</b>
+       5) <b>DISTRIBUCI√ìN DE ALUMNOS POR NACIONALIDAD</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -1266,7 +1266,7 @@
 
 
 
-          6) <b>DISTRIBUCI”N DE ALUMNOS POR CLASE DE MATRÕCULA</b>
+          6) <b>DISTRIBUCI√ìN DE ALUMNOS POR CLASE DE MATR√çCULA</b>
 
 
            ________________________________ _____________
@@ -1297,7 +1297,7 @@
 
 
 
-          7) <b>DISTRIBUCI”N DE ALUMNOS POR TIPO DE BECA</b>
+          7) <b>DISTRIBUCI√ìN DE ALUMNOS POR TIPO DE BECA</b>
 
 
            ________________________________ _____________

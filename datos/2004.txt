@@ -26,7 +26,7 @@
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS OFICIALES ....... 55651
+          N√öMERO TOTAL DE ALUMNOS OFICIALES ....... 55651
 </font><font size="4">                                        13
 
 
@@ -36,14 +36,14 @@
 <a name="999110"></a><b>          <u>UNIVERSIDAD DE GRANADA</u>
 
 
-          MatrÌcula: TODA
+          Matr√≠cula: TODA
           Curso: 2004/05</b>
 
 
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS: 55651  100.0%
+          N√öMERO TOTAL DE ALUMNOS: 55651  100.0%
                           VARONES: 24646   44.3%
                           MUJERES: 31005   55.7%
 
@@ -55,7 +55,7 @@
 
 
 
-          1) <u>DISTRIBUCI”N DE ALUMNOS POR EDADES</u>
+          1) <u>DISTRIBUCI√ìN DE ALUMNOS POR EDADES</u>
 
 
            _____________ _____________ _____________ _____________ 
@@ -90,7 +90,7 @@
 
 
 
-       2) <u>DISTRIBUCI”N DE ALUMNOS POR CURSOS</u>
+       2) <u>DISTRIBUCI√ìN DE ALUMNOS POR CURSOS</u>
 
 
         _________ _____________ _____________ _____________ 
@@ -160,7 +160,7 @@
 
 
 
-      3) <u>DISTRIBUCI”N DE ALUMNOS REPETIDORES</u>
+      3) <u>DISTRIBUCI√ìN DE ALUMNOS REPETIDORES</u>
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -230,7 +230,7 @@
 
 
 
-       4) <u>DISTRIBUCI”N DE ALUMNOS POR LUGAR DE RESIDENCIA</u>
+       4) <u>DISTRIBUCI√ìN DE ALUMNOS POR LUGAR DE RESIDENCIA</u>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -240,20 +240,20 @@
        |                      |             |             |             |
        | ALBACETE             |    30   0.1 |    77   0.2 |   107   0.2 |
        | ALICANTE             |   126   0.5 |   198   0.6 |   324   0.6 |
-       | ALMERÕA              |  1264   5.1 |  1748   5.6 |  3012   5.4 |
+       | ALMER√çA              |  1264   5.1 |  1748   5.6 |  3012   5.4 |
        | BADAJOZ              |   132   0.5 |   216   0.7 |   348   0.6 |
        | BALEARES             |    91   0.4 |   165   0.5 |   256   0.5 |
        | BARCELONA            |   275   1.1 |   418   1.3 |   693   1.2 |
        | BURGOS               |    21   0.1 |    16   0.1 |    37   0.1 |
        | CANTABRIA            |    28   0.1 |    30   0.1 |    58   0.1 |
-       | CASTELL”N            |    12   0.0 |    25   0.1 |    37   0.1 |
+       | CASTELL√ìN            |    12   0.0 |    25   0.1 |    37   0.1 |
        | CEUTA                |   360   1.5 |   526   1.7 |   886   1.6 |
        | CIUDAD REAL          |   175   0.7 |   325   1.0 |   500   0.9 |
-       | CORU—A, LA           |    22   0.1 |    34   0.1 |    56   0.1 |
+       | CORU√ëA, LA           |    22   0.1 |    34   0.1 |    56   0.1 |
        | CUENCA               |     7   0.0 |    14   0.0 |    21   0.0 |
-       | C¡CERES              |    32   0.1 |    46   0.1 |    78   0.1 |
-       | C¡DIZ                |  1159   4.7 |  1396   4.5 |  2555   4.6 |
-       | C”RDOBA              |  1030   4.2 |  1545   5.0 |  2575   4.6 |
+       | C√ÅCERES              |    32   0.1 |    46   0.1 |    78   0.1 |
+       | C√ÅDIZ                |  1159   4.7 |  1396   4.5 |  2555   4.6 |
+       | C√ìRDOBA              |  1030   4.2 |  1545   5.0 |  2575   4.6 |
        | EXTRANJERO           |   279   1.1 |   353   1.1 |   632   1.1 |
        | GERONA               |    38   0.2 |    37   0.1 |    75   0.1 |
        | GRANADA              | 11689  47.4 | 15127  48.8 | 26816  48.2 |
@@ -261,15 +261,15 @@
        | GUIPUZCUA            |    34   0.1 |    48   0.2 |    82   0.1 |
        | HUELVA               |   151   0.6 |   224   0.7 |   375   0.7 |
        | HUESCA               |    17   0.1 |    14   0.0 |    31   0.1 |
-       | JA…N                 |  2207   9.0 |  2916   9.4 |  5123   9.2 |
+       | JA√âN                 |  2207   9.0 |  2916   9.4 |  5123   9.2 |
        | LA RIOJA             |    13   0.1 |    24   0.1 |    37   0.1 |
        | LERIDA               |    17   0.1 |    11   0.0 |    28   0.1 |
-       | LE”N                 |    22   0.1 |    36   0.1 |    58   0.1 |
+       | LE√ìN                 |    22   0.1 |    36   0.1 |    58   0.1 |
        | LUGO                 |     6   0.0 |     9   0.0 |    15   0.0 |
        | MADRID               |   316   1.3 |   401   1.3 |   717   1.3 |
        | MELILLA              |   384   1.6 |   565   1.8 |   949   1.7 |
        | MURCIA               |   313   1.3 |   492   1.6 |   805   1.4 |
-       | M¡LAGA               |  1562   6.3 |  1799   5.8 |  3361   6.0 |
+       | M√ÅLAGA               |  1562   6.3 |  1799   5.8 |  3361   6.0 |
        | NAVARRA              |    24   0.1 |    38   0.1 |    62   0.1 |
        | ORENSE               |     7   0.0 |     9   0.0 |    16   0.0 |
        | OVIEDO               |    27   0.1 |    53   0.2 |    80   0.1 |
@@ -289,8 +289,8 @@
        | VIZCAYA              |    58   0.2 |    52   0.2 |   110   0.2 |
        | ZAMORA               |     5   0.0 |     5   0.0 |    10   0.0 |
        | ZARAGOZA             |    28   0.1 |    49   0.2 |    77   0.1 |
-       | ¡LAVA                |    22   0.1 |    35   0.1 |    57   0.1 |
-       | ¡VILA                |    10   0.0 |     7   0.0 |    17   0.0 |
+       | √ÅLAVA                |    22   0.1 |    35   0.1 |    57   0.1 |
+       | √ÅVILA                |    10   0.0 |     7   0.0 |    17   0.0 |
        | ALEMANIA             |    78   0.3 |    15   0.0 |    93   0.2 |
        | ARGENTINA            |     2   0.0 |     7   0.0 |     9   0.0 |
        | AUSTRIA              |     5   0.0 |     3   0.0 |     8   0.0 |
@@ -298,8 +298,8 @@
        | BOSNIA HERZEGOVINA   |     1   0.0 |     1   0.0 |     2   0.0 |
        | BRASIL               |     2   0.0 |     2   0.0 |     4   0.0 |
        | BULGARIA             |     3   0.0 |     0   0.0 |     3   0.0 |
-       | B…LGICA              |    13   0.1 |     5   0.0 |    18   0.0 |
-       | CANAD¡               |     2   0.0 |     0   0.0 |     2   0.0 |
+       | B√âLGICA              |    13   0.1 |     5   0.0 |    18   0.0 |
+       | CANAD√Å               |     2   0.0 |     0   0.0 |     2   0.0 |
        | CHINA (REP. POPULAR) |     1   0.0 |     0   0.0 |     1   0.0 |
        | CHIPRE               |     2   0.0 |     0   0.0 |     2   0.0 |
        | COLOMBIA             |     1   0.0 |     2   0.0 |     3   0.0 |
@@ -315,7 +315,7 @@
        | EE. UU. DE AMERICA   |     1   0.0 |     2   0.0 |     3   0.0 |
        | EL SALVADOR          |     2   0.0 |     0   0.0 |     2   0.0 |
        | ESLOVAQUIA           |     2   0.0 |     0   0.0 |     2   0.0 |
-       | ESPA—A               |   343   1.4 |    61   0.2 |   404   0.7 |
+       | ESPA√ëA               |   343   1.4 |    61   0.2 |   404   0.7 |
        | ESTONIA              |     2   0.0 |     0   0.0 |     2   0.0 |
        | FINLANDIA            |     3   0.0 |     0   0.0 |     3   0.0 |
        | FRANCIA              |    59   0.2 |    12   0.0 |    71   0.1 |
@@ -327,25 +327,25 @@
        | INDONESIA            |     1   0.0 |     0   0.0 |     1   0.0 |
        | IRAK                 |     0   0.0 |     1   0.0 |     1   0.0 |
        | IRLANDA (EIRE)       |     4   0.0 |     0   0.0 |     4   0.0 |
-       | IR¡N                 |     1   0.0 |     0   0.0 |     1   0.0 |
+       | IR√ÅN                 |     1   0.0 |     0   0.0 |     1   0.0 |
        | ITALIA               |    39   0.2 |     4   0.0 |    43   0.1 |
        | JAMAICA              |     1   0.0 |     0   0.0 |     1   0.0 |
        | JORDANIA             |     2   0.0 |     0   0.0 |     2   0.0 |
        | LUXEMBURGO           |     1   0.0 |     0   0.0 |     1   0.0 |
-       | LÕBANO               |     3   0.0 |     0   0.0 |     3   0.0 |
+       | L√çBANO               |     3   0.0 |     0   0.0 |     3   0.0 |
        | MARRUECOS            |    88   0.4 |    86   0.3 |   174   0.3 |
-       | M…XICO               |     0   0.0 |     1   0.0 |     1   0.0 |
+       | M√âXICO               |     0   0.0 |     1   0.0 |     1   0.0 |
        | NICARAGUA            |     0   0.0 |     1   0.0 |     1   0.0 |
        | NORUEGA              |     0   0.0 |     3   0.0 |     3   0.0 |
-       | PAKIST¡N             |     0   0.0 |     1   0.0 |     1   0.0 |
-       | PER⁄                 |     3   0.0 |     1   0.0 |     4   0.0 |
+       | PAKIST√ÅN             |     0   0.0 |     1   0.0 |     1   0.0 |
+       | PER√ö                 |     3   0.0 |     1   0.0 |     4   0.0 |
        | POLONIA              |     5   0.0 |     2   0.0 |     7   0.0 |
        | PORTUGAL             |     4   0.0 |     2   0.0 |     6   0.0 |
        | PUERTO RICO          |     1   0.0 |     0   0.0 |     1   0.0 |
        | REINO UNIDO          |    10   0.0 |     0   0.0 |    10   0.0 |
        | REP.DEMOC. DEL CONGO |     1   0.0 |     0   0.0 |     1   0.0 |
-       | REP⁄BLICA CHECA      |     1   0.0 |     0   0.0 |     1   0.0 |
-       | RUMANÕA              |     4   0.0 |     1   0.0 |     5   0.0 |
+       | REP√öBLICA CHECA      |     1   0.0 |     0   0.0 |     1   0.0 |
+       | RUMAN√çA              |     4   0.0 |     1   0.0 |     5   0.0 |
        | SAHARA               |     1   0.0 |     0   0.0 |     1   0.0 |
        | SIRIA                |     3   0.0 |     0   0.0 |     3   0.0 |
        | SUECIA               |     2   0.0 |     2   0.0 |     4   0.0 |
@@ -356,7 +356,7 @@
 
 
 
-       5) <u>DISTRIBUCI”N DE ALUMNOS POR NACIONALIDAD</u>
+       5) <u>DISTRIBUCI√ìN DE ALUMNOS POR NACIONALIDAD</u>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -364,7 +364,7 @@
        |     NACIONALIDAD     | VARONES  %  | MUJERES  %  | TOTALES  %  |
        |______________________|_____________|_____________|_____________|
        |                      |             |             |             |
-       | AFGANIST¡N           |     1   0.0 |     0   0.0 |     1   0.0 |
+       | AFGANIST√ÅN           |     1   0.0 |     0   0.0 |     1   0.0 |
        | ALEMANIA             |   292   1.2 |    46   0.1 |   338   0.6 |
        | ANDORRA              |     0   0.0 |     4   0.0 |     4   0.0 |
        | ANGOLA               |     2   0.0 |     0   0.0 |     2   0.0 |
@@ -379,9 +379,9 @@
        | BRASIL               |     7   0.0 |     8   0.0 |    15   0.0 |
        | BULGARIA             |     8   0.0 |     4   0.0 |    12   0.0 |
        | BURUNDI              |     1   0.0 |     0   0.0 |     1   0.0 |
-       | B…LGICA              |    97   0.4 |    16   0.1 |   113   0.2 |
-       | CAMER⁄N              |     0   0.0 |     1   0.0 |     1   0.0 |
-       | CANAD¡               |     3   0.0 |    19   0.1 |    22   0.0 |
+       | B√âLGICA              |    97   0.4 |    16   0.1 |   113   0.2 |
+       | CAMER√öN              |     0   0.0 |     1   0.0 |     1   0.0 |
+       | CANAD√Å               |     3   0.0 |    19   0.1 |    22   0.0 |
 </font><font size="4">                                        18
 
 
@@ -405,9 +405,9 @@
        | EL SALVADOR          |     1   0.0 |     0   0.0 |     1   0.0 |
        | ESLOVAQUIA           |     9   0.0 |    11   0.0 |    20   0.0 |
        | ESLOVENIA            |     3   0.0 |     1   0.0 |     4   0.0 |
-       | ESPA—A               | 22432  91.0 | 29523  95.2 | 51955  93.4 |
+       | ESPA√ëA               | 22432  91.0 | 29523  95.2 | 51955  93.4 |
        | ESTONIA              |    10   0.0 |     6   0.0 |    16   0.0 |
-       | ETIOPÕA              |     1   0.0 |     2   0.0 |     3   0.0 |
+       | ETIOP√çA              |     1   0.0 |     2   0.0 |     3   0.0 |
        | FIDJI                |     1   0.0 |     4   0.0 |     5   0.0 |
        | FILIPINAS            |     0   0.0 |     2   0.0 |     2   0.0 |
        | FINLANDIA            |    38   0.2 |     6   0.0 |    44   0.1 |
@@ -421,17 +421,17 @@
        | HUNGRIA              |     7   0.0 |     2   0.0 |     9   0.0 |
        | IRAK                 |     0   0.0 |     2   0.0 |     2   0.0 |
        | IRLANDA (EIRE)       |    25   0.1 |     6   0.0 |    31   0.1 |
-       | IR¡N                 |     1   0.0 |     2   0.0 |     3   0.0 |
+       | IR√ÅN                 |     1   0.0 |     2   0.0 |     3   0.0 |
        | ISRAEL               |     2   0.0 |     0   0.0 |     2   0.0 |
        | ITALIA               |   332   1.3 |    22   0.1 |   354   0.6 |
        | JAMAICA              |     0   0.0 |     1   0.0 |     1   0.0 |
-       | JAP”N                |     1   0.0 |     4   0.0 |     5   0.0 |
+       | JAP√ìN                |     1   0.0 |     4   0.0 |     5   0.0 |
        | JERUSALEM            |     1   0.0 |     0   0.0 |     1   0.0 |
        | JORDANIA             |     2   0.0 |     0   0.0 |     2   0.0 |
        | KENIA                |     0   0.0 |     1   0.0 |     1   0.0 |
        | LITUANIA             |     0   0.0 |     1   0.0 |     1   0.0 |
        | LUXEMBURGO           |     3   0.0 |     0   0.0 |     3   0.0 |
-       | LÕBANO               |     4   0.0 |     1   0.0 |     5   0.0 |
+       | L√çBANO               |     4   0.0 |     1   0.0 |     5   0.0 |
        | MALDIVAS             |     0   0.0 |     1   0.0 |     1   0.0 |
        | MALTA                |     0   0.0 |     1   0.0 |     1   0.0 |
        | OTRAS o SIN ESPECIFI |   871   3.5 |  1033   3.3 |  1904   3.7 |
@@ -442,20 +442,20 @@
 
 
 
-          6) <u>DISTRIBUCI”N DE ALUMNOS POR CLASE DE MATRÕCULA</u>
+          6) <u>DISTRIBUCI√ìN DE ALUMNOS POR CLASE DE MATR√çCULA</u>
 
 
 </font><font size="2">                 </font><font size="4"> </font><font size="2">________________________________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________
                  </font><font size="4">|</font><font size="2">                                </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">
-                 </font><font size="4">|</font><font size="2">       CLASE DE MATRÕCULA       </font><font size="4">|</font><font size="2"> NO F.N.  %  </font><font size="4">|</font><font size="2"> F.N.1™   %  </font><font size="4">|</font><font size="2"> F.N.2™   %  </font><font size="4">|</font><font size="2"> ALUMNOS  %  </font><font size="4">|</font><font size="2">
+                 </font><font size="4">|</font><font size="2">       CLASE DE MATR√çCULA       </font><font size="4">|</font><font size="2"> NO F.N.  %  </font><font size="4">|</font><font size="2"> F.N.1¬™   %  </font><font size="4">|</font><font size="2"> F.N.2¬™   %  </font><font size="4">|</font><font size="2"> ALUMNOS  %  </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2">________________________________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2">                                </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2"> ORDINARIA                      </font><font size="4">|</font><font size="2"> 33920  61.0 </font><font size="4">|</font><font size="2">  5843  10.5 </font><font size="4">|</font><font size="2">   456   0.8 </font><font size="4">|</font><font size="2"> 40219  72.3 </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2"> OTRAS CAUSAS Y AYUDAS          </font><font size="4">|</font><font size="2">    30   0.1 </font><font size="4">|</font><font size="2">     9   0.0 </font><font size="4">|</font><font size="2">     1   0.0 </font><font size="4">|</font><font size="2">    40   0.1 </font><font size="4">|</font><font size="2">
-                 </font><font size="4">|</font><font size="2"> MATRÕCULA DE HONOR EN COU      </font><font size="4">|</font><font size="2">   430   0.8 </font><font size="4">|</font><font size="2">    96   0.2 </font><font size="4">|</font><font size="2">     5   0.0 </font><font size="4">|</font><font size="2">   531   1.0 </font><font size="4">|</font><font size="2">
+                 </font><font size="4">|</font><font size="2"> MATR√çCULA DE HONOR EN COU      </font><font size="4">|</font><font size="2">   430   0.8 </font><font size="4">|</font><font size="2">    96   0.2 </font><font size="4">|</font><font size="2">     5   0.0 </font><font size="4">|</font><font size="2">   531   1.0 </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2"> BECARIO M.E.C.                 </font><font size="4">|</font><font size="2">  9182  16.5 </font><font size="4">|</font><font size="2">  2068   3.7 </font><font size="4">|</font><font size="2">   142   0.3 </font><font size="4">|</font><font size="2"> 11392  20.5 </font><font size="4">|</font><font size="2">
-                 </font><font size="4">|</font><font size="2"> PERSONAL UGR, C”NYUGE O HIJO   </font><font size="4">|</font><font size="2">   941   1.7 </font><font size="4">|</font><font size="2">   159   0.3 </font><font size="4">|</font><font size="2">     5   0.0 </font><font size="4">|</font><font size="2">  1105   2.0 </font><font size="4">|</font><font size="2">
-                 </font><font size="4">|</font><font size="2"> MINUSV¡LIDO                    </font><font size="4">|</font><font size="2">   184   0.3 </font><font size="4">|</font><font size="2">    56   0.1 </font><font size="4">|</font><font size="2">     7   0.0 </font><font size="4">|</font><font size="2">   247   0.4 </font><font size="4">|</font><font size="2">
+                 </font><font size="4">|</font><font size="2"> PERSONAL UGR, C√ìNYUGE O HIJO   </font><font size="4">|</font><font size="2">   941   1.7 </font><font size="4">|</font><font size="2">   159   0.3 </font><font size="4">|</font><font size="2">     5   0.0 </font><font size="4">|</font><font size="2">  1105   2.0 </font><font size="4">|</font><font size="2">
+                 </font><font size="4">|</font><font size="2"> MINUSV√ÅLIDO                    </font><font size="4">|</font><font size="2">   184   0.3 </font><font size="4">|</font><font size="2">    56   0.1 </font><font size="4">|</font><font size="2">     7   0.0 </font><font size="4">|</font><font size="2">   247   0.4 </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2"> BECARIO DE INTERCAMBIO EN UGR  </font><font size="4">|</font><font size="2">  2114   3.8 </font><font size="4">|</font><font size="2">     3   0.0 </font><font size="4">|</font><font size="2">     0   0.0 </font><font size="4">|</font><font size="2">  2117   3.8 </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2">________________________________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">
 </font><font size="4">
@@ -465,7 +465,7 @@
 
 
 
-          7) <u>DISTRIBUCI”N DE ALUMNOS POR TIPO DE BECA</u>
+          7) <u>DISTRIBUCI√ìN DE ALUMNOS POR TIPO DE BECA</u>
 
 
            ________________________________ _____________
@@ -473,13 +473,13 @@
           |          TIPO DE BECA          | ALUMNOS  %  |
           |________________________________|_____________|
           |                                |             |
-          | MEC. R…GIMEN GENERAL           | 10542  78.0 |
+          | MEC. R√âGIMEN GENERAL           | 10542  78.0 |
           | MIN. TRABAJO, ASUNTOS SOCIALES |    14   0.1 |
           | MINISTERIO ASUNTOS EXTERIORES  |    57   0.4 |
           | SIN ESPECIFICAR                |   857   6.3 |
           | GOBIERNO VASCO                 |     8   0.1 |
-          | S”CRATES, ERASMUS (Europa Occ) |  1680  12.4 |
-          | SÕCUE, S…NECA (Nacional)       |   263   1.9 |
+          | S√ìCRATES, ERASMUS (Europa Occ) |  1680  12.4 |
+          | S√çCUE, S√âNECA (Nacional)       |   263   1.9 |
           | LIBRE INTERCAMBIO (Internac.)  |     4   0.0 |
           | CONV. BILATERALES (Internac.)  |    26   0.2 |
           | MARRUECOS                      |    58   0.4 |
@@ -496,14 +496,14 @@
 <a name="999111"></a><b>          <u>UNIVERSIDAD DE GRANADA</u>
 
 
-          MatrÌcula: OFICIAL
+          Matr√≠cula: OFICIAL
           Curso: 2004/05</b>
 
 
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS: 55651  100.0%
+          N√öMERO TOTAL DE ALUMNOS: 55651  100.0%
                           VARONES: 24646   44.3%
                           MUJERES: 31005   55.7%
 
@@ -515,7 +515,7 @@
 
 
 
-          1) <u>DISTRIBUCI”N DE ALUMNOS POR EDADES</u>
+          1) <u>DISTRIBUCI√ìN DE ALUMNOS POR EDADES</u>
 
 
            _____________ _____________ _____________ _____________ 
@@ -550,7 +550,7 @@
 
 
 
-       2) <u>DISTRIBUCI”N DE ALUMNOS POR CURSOS</u>
+       2) <u>DISTRIBUCI√ìN DE ALUMNOS POR CURSOS</u>
 
 
         _________ _____________ _____________ _____________ 
@@ -620,7 +620,7 @@
 
 
 
-      3) <u>DISTRIBUCI”N DE ALUMNOS REPETIDORES</u>
+      3) <u>DISTRIBUCI√ìN DE ALUMNOS REPETIDORES</u>
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -690,7 +690,7 @@
 
 
 
-       4) <u>DISTRIBUCI”N DE ALUMNOS POR LUGAR DE RESIDENCIA</u>
+       4) <u>DISTRIBUCI√ìN DE ALUMNOS POR LUGAR DE RESIDENCIA</u>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -700,20 +700,20 @@
        |                      |             |             |             |
        | ALBACETE             |    30   0.1 |    77   0.2 |   107   0.2 |
        | ALICANTE             |   126   0.5 |   198   0.6 |   324   0.6 |
-       | ALMERÕA              |  1264   5.1 |  1748   5.6 |  3012   5.4 |
+       | ALMER√çA              |  1264   5.1 |  1748   5.6 |  3012   5.4 |
        | BADAJOZ              |   132   0.5 |   216   0.7 |   348   0.6 |
        | BALEARES             |    91   0.4 |   165   0.5 |   256   0.5 |
        | BARCELONA            |   275   1.1 |   418   1.3 |   693   1.2 |
        | BURGOS               |    21   0.1 |    16   0.1 |    37   0.1 |
        | CANTABRIA            |    28   0.1 |    30   0.1 |    58   0.1 |
-       | CASTELL”N            |    12   0.0 |    25   0.1 |    37   0.1 |
+       | CASTELL√ìN            |    12   0.0 |    25   0.1 |    37   0.1 |
        | CEUTA                |   360   1.5 |   526   1.7 |   886   1.6 |
        | CIUDAD REAL          |   175   0.7 |   325   1.0 |   500   0.9 |
-       | CORU—A, LA           |    22   0.1 |    34   0.1 |    56   0.1 |
+       | CORU√ëA, LA           |    22   0.1 |    34   0.1 |    56   0.1 |
        | CUENCA               |     7   0.0 |    14   0.0 |    21   0.0 |
-       | C¡CERES              |    32   0.1 |    46   0.1 |    78   0.1 |
-       | C¡DIZ                |  1159   4.7 |  1396   4.5 |  2555   4.6 |
-       | C”RDOBA              |  1030   4.2 |  1545   5.0 |  2575   4.6 |
+       | C√ÅCERES              |    32   0.1 |    46   0.1 |    78   0.1 |
+       | C√ÅDIZ                |  1159   4.7 |  1396   4.5 |  2555   4.6 |
+       | C√ìRDOBA              |  1030   4.2 |  1545   5.0 |  2575   4.6 |
        | EXTRANJERO           |   279   1.1 |   353   1.1 |   632   1.1 |
        | GERONA               |    38   0.2 |    37   0.1 |    75   0.1 |
        | GRANADA              | 11689  47.4 | 15127  48.8 | 26816  48.2 |
@@ -721,15 +721,15 @@
        | GUIPUZCUA            |    34   0.1 |    48   0.2 |    82   0.1 |
        | HUELVA               |   151   0.6 |   224   0.7 |   375   0.7 |
        | HUESCA               |    17   0.1 |    14   0.0 |    31   0.1 |
-       | JA…N                 |  2207   9.0 |  2916   9.4 |  5123   9.2 |
+       | JA√âN                 |  2207   9.0 |  2916   9.4 |  5123   9.2 |
        | LA RIOJA             |    13   0.1 |    24   0.1 |    37   0.1 |
        | LERIDA               |    17   0.1 |    11   0.0 |    28   0.1 |
-       | LE”N                 |    22   0.1 |    36   0.1 |    58   0.1 |
+       | LE√ìN                 |    22   0.1 |    36   0.1 |    58   0.1 |
        | LUGO                 |     6   0.0 |     9   0.0 |    15   0.0 |
        | MADRID               |   316   1.3 |   401   1.3 |   717   1.3 |
        | MELILLA              |   384   1.6 |   565   1.8 |   949   1.7 |
        | MURCIA               |   313   1.3 |   492   1.6 |   805   1.4 |
-       | M¡LAGA               |  1562   6.3 |  1799   5.8 |  3361   6.0 |
+       | M√ÅLAGA               |  1562   6.3 |  1799   5.8 |  3361   6.0 |
        | NAVARRA              |    24   0.1 |    38   0.1 |    62   0.1 |
        | ORENSE               |     7   0.0 |     9   0.0 |    16   0.0 |
        | OVIEDO               |    27   0.1 |    53   0.2 |    80   0.1 |
@@ -749,8 +749,8 @@
        | VIZCAYA              |    58   0.2 |    52   0.2 |   110   0.2 |
        | ZAMORA               |     5   0.0 |     5   0.0 |    10   0.0 |
        | ZARAGOZA             |    28   0.1 |    49   0.2 |    77   0.1 |
-       | ¡LAVA                |    22   0.1 |    35   0.1 |    57   0.1 |
-       | ¡VILA                |    10   0.0 |     7   0.0 |    17   0.0 |
+       | √ÅLAVA                |    22   0.1 |    35   0.1 |    57   0.1 |
+       | √ÅVILA                |    10   0.0 |     7   0.0 |    17   0.0 |
        | ALEMANIA             |    78   0.3 |    15   0.0 |    93   0.2 |
        | ARGENTINA            |     2   0.0 |     7   0.0 |     9   0.0 |
        | AUSTRIA              |     5   0.0 |     3   0.0 |     8   0.0 |
@@ -758,8 +758,8 @@
        | BOSNIA HERZEGOVINA   |     1   0.0 |     1   0.0 |     2   0.0 |
        | BRASIL               |     2   0.0 |     2   0.0 |     4   0.0 |
        | BULGARIA             |     3   0.0 |     0   0.0 |     3   0.0 |
-       | B…LGICA              |    13   0.1 |     5   0.0 |    18   0.0 |
-       | CANAD¡               |     2   0.0 |     0   0.0 |     2   0.0 |
+       | B√âLGICA              |    13   0.1 |     5   0.0 |    18   0.0 |
+       | CANAD√Å               |     2   0.0 |     0   0.0 |     2   0.0 |
        | CHINA (REP. POPULAR) |     1   0.0 |     0   0.0 |     1   0.0 |
        | CHIPRE               |     2   0.0 |     0   0.0 |     2   0.0 |
        | COLOMBIA             |     1   0.0 |     2   0.0 |     3   0.0 |
@@ -775,7 +775,7 @@
        | EE. UU. DE AMERICA   |     1   0.0 |     2   0.0 |     3   0.0 |
        | EL SALVADOR          |     2   0.0 |     0   0.0 |     2   0.0 |
        | ESLOVAQUIA           |     2   0.0 |     0   0.0 |     2   0.0 |
-       | ESPA—A               |   343   1.4 |    61   0.2 |   404   0.7 |
+       | ESPA√ëA               |   343   1.4 |    61   0.2 |   404   0.7 |
        | ESTONIA              |     2   0.0 |     0   0.0 |     2   0.0 |
        | FINLANDIA            |     3   0.0 |     0   0.0 |     3   0.0 |
        | FRANCIA              |    59   0.2 |    12   0.0 |    71   0.1 |
@@ -787,25 +787,25 @@
        | INDONESIA            |     1   0.0 |     0   0.0 |     1   0.0 |
        | IRAK                 |     0   0.0 |     1   0.0 |     1   0.0 |
        | IRLANDA (EIRE)       |     4   0.0 |     0   0.0 |     4   0.0 |
-       | IR¡N                 |     1   0.0 |     0   0.0 |     1   0.0 |
+       | IR√ÅN                 |     1   0.0 |     0   0.0 |     1   0.0 |
        | ITALIA               |    39   0.2 |     4   0.0 |    43   0.1 |
        | JAMAICA              |     1   0.0 |     0   0.0 |     1   0.0 |
        | JORDANIA             |     2   0.0 |     0   0.0 |     2   0.0 |
        | LUXEMBURGO           |     1   0.0 |     0   0.0 |     1   0.0 |
-       | LÕBANO               |     3   0.0 |     0   0.0 |     3   0.0 |
+       | L√çBANO               |     3   0.0 |     0   0.0 |     3   0.0 |
        | MARRUECOS            |    88   0.4 |    86   0.3 |   174   0.3 |
-       | M…XICO               |     0   0.0 |     1   0.0 |     1   0.0 |
+       | M√âXICO               |     0   0.0 |     1   0.0 |     1   0.0 |
        | NICARAGUA            |     0   0.0 |     1   0.0 |     1   0.0 |
        | NORUEGA              |     0   0.0 |     3   0.0 |     3   0.0 |
-       | PAKIST¡N             |     0   0.0 |     1   0.0 |     1   0.0 |
-       | PER⁄                 |     3   0.0 |     1   0.0 |     4   0.0 |
+       | PAKIST√ÅN             |     0   0.0 |     1   0.0 |     1   0.0 |
+       | PER√ö                 |     3   0.0 |     1   0.0 |     4   0.0 |
        | POLONIA              |     5   0.0 |     2   0.0 |     7   0.0 |
        | PORTUGAL             |     4   0.0 |     2   0.0 |     6   0.0 |
        | PUERTO RICO          |     1   0.0 |     0   0.0 |     1   0.0 |
        | REINO UNIDO          |    10   0.0 |     0   0.0 |    10   0.0 |
        | REP.DEMOC. DEL CONGO |     1   0.0 |     0   0.0 |     1   0.0 |
-       | REP⁄BLICA CHECA      |     1   0.0 |     0   0.0 |     1   0.0 |
-       | RUMANÕA              |     4   0.0 |     1   0.0 |     5   0.0 |
+       | REP√öBLICA CHECA      |     1   0.0 |     0   0.0 |     1   0.0 |
+       | RUMAN√çA              |     4   0.0 |     1   0.0 |     5   0.0 |
        | SAHARA               |     1   0.0 |     0   0.0 |     1   0.0 |
        | SIRIA                |     3   0.0 |     0   0.0 |     3   0.0 |
        | SUECIA               |     2   0.0 |     2   0.0 |     4   0.0 |
@@ -816,7 +816,7 @@
 
 
 
-       5) <u>DISTRIBUCI”N DE ALUMNOS POR NACIONALIDAD</u>
+       5) <u>DISTRIBUCI√ìN DE ALUMNOS POR NACIONALIDAD</u>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -824,7 +824,7 @@
        |     NACIONALIDAD     | VARONES  %  | MUJERES  %  | TOTALES  %  |
        |______________________|_____________|_____________|_____________|
        |                      |             |             |             |
-       | AFGANIST¡N           |     1   0.0 |     0   0.0 |     1   0.0 |
+       | AFGANIST√ÅN           |     1   0.0 |     0   0.0 |     1   0.0 |
        | ALEMANIA             |   292   1.2 |    46   0.1 |   338   0.6 |
        | ANDORRA              |     0   0.0 |     4   0.0 |     4   0.0 |
        | ANGOLA               |     2   0.0 |     0   0.0 |     2   0.0 |
@@ -839,9 +839,9 @@
        | BRASIL               |     7   0.0 |     8   0.0 |    15   0.0 |
        | BULGARIA             |     8   0.0 |     4   0.0 |    12   0.0 |
        | BURUNDI              |     1   0.0 |     0   0.0 |     1   0.0 |
-       | B…LGICA              |    97   0.4 |    16   0.1 |   113   0.2 |
-       | CAMER⁄N              |     0   0.0 |     1   0.0 |     1   0.0 |
-       | CANAD¡               |     3   0.0 |    19   0.1 |    22   0.0 |
+       | B√âLGICA              |    97   0.4 |    16   0.1 |   113   0.2 |
+       | CAMER√öN              |     0   0.0 |     1   0.0 |     1   0.0 |
+       | CANAD√Å               |     3   0.0 |    19   0.1 |    22   0.0 |
 </font><font size="4">                                        26
 
 
@@ -865,9 +865,9 @@
        | EL SALVADOR          |     1   0.0 |     0   0.0 |     1   0.0 |
        | ESLOVAQUIA           |     9   0.0 |    11   0.0 |    20   0.0 |
        | ESLOVENIA            |     3   0.0 |     1   0.0 |     4   0.0 |
-       | ESPA—A               | 22432  91.0 | 29523  95.2 | 51955  93.4 |
+       | ESPA√ëA               | 22432  91.0 | 29523  95.2 | 51955  93.4 |
        | ESTONIA              |    10   0.0 |     6   0.0 |    16   0.0 |
-       | ETIOPÕA              |     1   0.0 |     2   0.0 |     3   0.0 |
+       | ETIOP√çA              |     1   0.0 |     2   0.0 |     3   0.0 |
        | FIDJI                |     1   0.0 |     4   0.0 |     5   0.0 |
        | FILIPINAS            |     0   0.0 |     2   0.0 |     2   0.0 |
        | FINLANDIA            |    38   0.2 |     6   0.0 |    44   0.1 |
@@ -881,17 +881,17 @@
        | HUNGRIA              |     7   0.0 |     2   0.0 |     9   0.0 |
        | IRAK                 |     0   0.0 |     2   0.0 |     2   0.0 |
        | IRLANDA (EIRE)       |    25   0.1 |     6   0.0 |    31   0.1 |
-       | IR¡N                 |     1   0.0 |     2   0.0 |     3   0.0 |
+       | IR√ÅN                 |     1   0.0 |     2   0.0 |     3   0.0 |
        | ISRAEL               |     2   0.0 |     0   0.0 |     2   0.0 |
        | ITALIA               |   332   1.3 |    22   0.1 |   354   0.6 |
        | JAMAICA              |     0   0.0 |     1   0.0 |     1   0.0 |
-       | JAP”N                |     1   0.0 |     4   0.0 |     5   0.0 |
+       | JAP√ìN                |     1   0.0 |     4   0.0 |     5   0.0 |
        | JERUSALEM            |     1   0.0 |     0   0.0 |     1   0.0 |
        | JORDANIA             |     2   0.0 |     0   0.0 |     2   0.0 |
        | KENIA                |     0   0.0 |     1   0.0 |     1   0.0 |
        | LITUANIA             |     0   0.0 |     1   0.0 |     1   0.0 |
        | LUXEMBURGO           |     3   0.0 |     0   0.0 |     3   0.0 |
-       | LÕBANO               |     4   0.0 |     1   0.0 |     5   0.0 |
+       | L√çBANO               |     4   0.0 |     1   0.0 |     5   0.0 |
        | MALDIVAS             |     0   0.0 |     1   0.0 |     1   0.0 |
        | MALTA                |     0   0.0 |     1   0.0 |     1   0.0 |
        | OTRAS o SIN ESPECIFI |   871   3.5 |  1033   3.3 |  1904   3.7 |
@@ -902,20 +902,20 @@
 
 
 
-          6) <u>DISTRIBUCI”N DE ALUMNOS POR CLASE DE MATRÕCULA</u>
+          6) <u>DISTRIBUCI√ìN DE ALUMNOS POR CLASE DE MATR√çCULA</u>
 
 
 </font><font size="2">                 </font><font size="4"> </font><font size="2">________________________________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________
                  </font><font size="4">|</font><font size="2">                                </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">
-                 </font><font size="4">|</font><font size="2">       CLASE DE MATRÕCULA       </font><font size="4">|</font><font size="2"> NO F.N.  %  </font><font size="4">|</font><font size="2"> F.N.1™   %  </font><font size="4">|</font><font size="2"> F.N.2™   %  </font><font size="4">|</font><font size="2"> ALUMNOS  %  </font><font size="4">|</font><font size="2">
+                 </font><font size="4">|</font><font size="2">       CLASE DE MATR√çCULA       </font><font size="4">|</font><font size="2"> NO F.N.  %  </font><font size="4">|</font><font size="2"> F.N.1¬™   %  </font><font size="4">|</font><font size="2"> F.N.2¬™   %  </font><font size="4">|</font><font size="2"> ALUMNOS  %  </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2">________________________________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2">                                </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2"> ORDINARIA                      </font><font size="4">|</font><font size="2"> 33920  61.0 </font><font size="4">|</font><font size="2">  5843  10.5 </font><font size="4">|</font><font size="2">   456   0.8 </font><font size="4">|</font><font size="2"> 40219  72.3 </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2"> OTRAS CAUSAS Y AYUDAS          </font><font size="4">|</font><font size="2">    30   0.1 </font><font size="4">|</font><font size="2">     9   0.0 </font><font size="4">|</font><font size="2">     1   0.0 </font><font size="4">|</font><font size="2">    40   0.1 </font><font size="4">|</font><font size="2">
-                 </font><font size="4">|</font><font size="2"> MATRÕCULA DE HONOR EN COU      </font><font size="4">|</font><font size="2">   430   0.8 </font><font size="4">|</font><font size="2">    96   0.2 </font><font size="4">|</font><font size="2">     5   0.0 </font><font size="4">|</font><font size="2">   531   1.0 </font><font size="4">|</font><font size="2">
+                 </font><font size="4">|</font><font size="2"> MATR√çCULA DE HONOR EN COU      </font><font size="4">|</font><font size="2">   430   0.8 </font><font size="4">|</font><font size="2">    96   0.2 </font><font size="4">|</font><font size="2">     5   0.0 </font><font size="4">|</font><font size="2">   531   1.0 </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2"> BECARIO M.E.C.                 </font><font size="4">|</font><font size="2">  9182  16.5 </font><font size="4">|</font><font size="2">  2068   3.7 </font><font size="4">|</font><font size="2">   142   0.3 </font><font size="4">|</font><font size="2"> 11392  20.5 </font><font size="4">|</font><font size="2">
-                 </font><font size="4">|</font><font size="2"> PERSONAL UGR, C”NYUGE O HIJO   </font><font size="4">|</font><font size="2">   941   1.7 </font><font size="4">|</font><font size="2">   159   0.3 </font><font size="4">|</font><font size="2">     5   0.0 </font><font size="4">|</font><font size="2">  1105   2.0 </font><font size="4">|</font><font size="2">
-                 </font><font size="4">|</font><font size="2"> MINUSV¡LIDO                    </font><font size="4">|</font><font size="2">   184   0.3 </font><font size="4">|</font><font size="2">    56   0.1 </font><font size="4">|</font><font size="2">     7   0.0 </font><font size="4">|</font><font size="2">   247   0.4 </font><font size="4">|</font><font size="2">
+                 </font><font size="4">|</font><font size="2"> PERSONAL UGR, C√ìNYUGE O HIJO   </font><font size="4">|</font><font size="2">   941   1.7 </font><font size="4">|</font><font size="2">   159   0.3 </font><font size="4">|</font><font size="2">     5   0.0 </font><font size="4">|</font><font size="2">  1105   2.0 </font><font size="4">|</font><font size="2">
+                 </font><font size="4">|</font><font size="2"> MINUSV√ÅLIDO                    </font><font size="4">|</font><font size="2">   184   0.3 </font><font size="4">|</font><font size="2">    56   0.1 </font><font size="4">|</font><font size="2">     7   0.0 </font><font size="4">|</font><font size="2">   247   0.4 </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2"> BECARIO DE INTERCAMBIO EN UGR  </font><font size="4">|</font><font size="2">  2114   3.8 </font><font size="4">|</font><font size="2">     3   0.0 </font><font size="4">|</font><font size="2">     0   0.0 </font><font size="4">|</font><font size="2">  2117   3.8 </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2">________________________________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">
 </font><font size="4">
@@ -925,7 +925,7 @@
 
 
 
-          7) <u>DISTRIBUCI”N DE ALUMNOS POR TIPO DE BECA</u>
+          7) <u>DISTRIBUCI√ìN DE ALUMNOS POR TIPO DE BECA</u>
 
 
            ________________________________ _____________
@@ -933,13 +933,13 @@
           |          TIPO DE BECA          | ALUMNOS  %  |
           |________________________________|_____________|
           |                                |             |
-          | MEC. R…GIMEN GENERAL           | 10542  78.0 |
+          | MEC. R√âGIMEN GENERAL           | 10542  78.0 |
           | MIN. TRABAJO, ASUNTOS SOCIALES |    14   0.1 |
           | MINISTERIO ASUNTOS EXTERIORES  |    57   0.4 |
           | SIN ESPECIFICAR                |   857   6.3 |
           | GOBIERNO VASCO                 |     8   0.1 |
-          | S”CRATES, ERASMUS (Europa Occ) |  1680  12.4 |
-          | SÕCUE, S…NECA (Nacional)       |   263   1.9 |
+          | S√ìCRATES, ERASMUS (Europa Occ) |  1680  12.4 |
+          | S√çCUE, S√âNECA (Nacional)       |   263   1.9 |
           | LIBRE INTERCAMBIO (Internac.)  |     4   0.0 |
           | CONV. BILATERALES (Internac.)  |    26   0.2 |
           | MARRUECOS                      |    58   0.4 |

@@ -26,9 +26,9 @@
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS OFICIALES ....... 56363
+          N√öMERO TOTAL DE ALUMNOS OFICIALES ....... 56363
 
-          N⁄MERO TOTAL DE ALUMNOS LIBRES ..........     9
+          N√öMERO TOTAL DE ALUMNOS LIBRES ..........     9
                                                   _________
 
                                   T O T A L ....... 56372
@@ -41,14 +41,14 @@
 <a name="999110"></a><b>          <b>UNIVERSIDAD DE GRANADA</b>
 
 
-          MatrÌcula: TODA
+          Matr√≠cula: TODA
           Curso: 2002/03</b>
 
 
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS: 56372  100.0%
+          N√öMERO TOTAL DE ALUMNOS: 56372  100.0%
                           VARONES: 24745   43.9%
                           MUJERES: 31627   56.1%
 
@@ -60,7 +60,7 @@
 
 
 
-          1) <b>DISTRIBUCI”N DE ALUMNOS POR EDADES</b>
+          1) <b>DISTRIBUCI√ìN DE ALUMNOS POR EDADES</b>
 
 
            _____________ _____________ _____________ _____________ 
@@ -95,7 +95,7 @@
 
 
 
-       2) <b>DISTRIBUCI”N DE ALUMNOS POR CURSOS</b>
+       2) <b>DISTRIBUCI√ìN DE ALUMNOS POR CURSOS</b>
 
 
         _________ _____________ _____________ _____________ 
@@ -165,7 +165,7 @@
 
 
 
-      3) <b>DISTRIBUCI”N DE ALUMNOS REPETIDORES</b>
+      3) <b>DISTRIBUCI√ìN DE ALUMNOS REPETIDORES</b>
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -235,7 +235,7 @@
 
 
 
-       4) <b>DISTRIBUCI”N DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
+       4) <b>DISTRIBUCI√ìN DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -259,7 +259,7 @@
        | CEUTA                |   362   1.5 |   484   1.5 |   846   1.5 |
        | CIUDAD REAL          |   144   0.6 |   296   0.9 |   440   0.8 |
        | CORDOBA              |   971   3.9 |  1634   5.2 |  2605   4.6 |
-       | CORU—A, LA           |    20   0.1 |    36   0.1 |    56   0.1 |
+       | CORU√ëA, LA           |    20   0.1 |    36   0.1 |    56   0.1 |
        | CUENCA               |     9   0.0 |    11   0.0 |    20   0.0 |
        | EXTRANJERO           |   266   1.1 |   328   1.0 |   594   1.1 |
        | GERONA               |    23   0.1 |    26   0.1 |    49   0.1 |
@@ -321,7 +321,7 @@
        | EE. UU. DE AMERICA   |     0   0.0 |     3   0.0 |     3   0.0 |
        | EL SALVADOR          |     1   0.0 |     0   0.0 |     1   0.0 |
        | ESLOVAQUIA           |     2   0.0 |     1   0.0 |     3   0.0 |
-       | ESPA—A               |   259   1.1 |   144   0.5 |   403   0.7 |
+       | ESPA√ëA               |   259   1.1 |   144   0.5 |   403   0.7 |
        | FINLANDIA            |     3   0.0 |     1   0.0 |     4   0.0 |
        | FRANCIA              |    29   0.1 |    26   0.1 |    55   0.1 |
        | GRECIA               |     2   0.0 |     1   0.0 |     3   0.0 |
@@ -358,7 +358,7 @@
 
 
 
-       5) <b>DISTRIBUCI”N DE ALUMNOS POR NACIONALIDAD</b>
+       5) <b>DISTRIBUCI√ìN DE ALUMNOS POR NACIONALIDAD</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -395,7 +395,7 @@
 
        | ESLOVAQUIA           |     3   0.0 |     6   0.0 |     9   0.0 |
        | ESLOVENIA            |     0   0.0 |     1   0.0 |     1   0.0 |
-       | ESPA—A               | 22860  92.7 | 30059  95.7 | 52919  94.4 |
+       | ESPA√ëA               | 22860  92.7 | 30059  95.7 | 52919  94.4 |
        | ESTONIA              |     2   0.0 |     2   0.0 |     4   0.0 |
        | FILIPINAS            |     1   0.0 |     0   0.0 |     1   0.0 |
        | FINLANDIA            |    27   0.1 |     3   0.0 |    30   0.1 |
@@ -448,12 +448,12 @@
 
 
 
-          6) <b>DISTRIBUCI”N DE ALUMNOS POR CLASE DE MATRÕCULA</b>
+          6) <b>DISTRIBUCI√ìN DE ALUMNOS POR CLASE DE MATR√çCULA</b>
 
 
 </font><font size="2">                 </font><font size="4"> </font><font size="2">________________________________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________
                  </font><font size="4">|</font><font size="2">                                </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">
-                 </font><font size="4">|</font><font size="2">       CLASE DE MATRÕCULA       </font><font size="4">|</font><font size="2"> NO F.N.  %  </font><font size="4">|</font><font size="2"> F.N.1™   %  </font><font size="4">|</font><font size="2"> F.N.2™   %  </font><font size="4">|</font><font size="2"> ALUMNOS  %  </font><font size="4">|</font><font size="2">
+                 </font><font size="4">|</font><font size="2">       CLASE DE MATR√çCULA       </font><font size="4">|</font><font size="2"> NO F.N.  %  </font><font size="4">|</font><font size="2"> F.N.1¬™   %  </font><font size="4">|</font><font size="2"> F.N.2¬™   %  </font><font size="4">|</font><font size="2"> ALUMNOS  %  </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2">________________________________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2">                                </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2"> ORDINARIA                      </font><font size="4">|</font><font size="2"> 34113  60.8 </font><font size="4">|</font><font size="2">  7411  13.2 </font><font size="4">|</font><font size="2">    92   0.2 </font><font size="4">|</font><font size="2"> 41616  74.2 </font><font size="4">|</font><font size="2">
@@ -471,7 +471,7 @@
 
 
 
-          7) <b>DISTRIBUCI”N DE ALUMNOS POR TIPO DE BECA</b>
+          7) <b>DISTRIBUCI√ìN DE ALUMNOS POR TIPO DE BECA</b>
 
 
            ________________________________ _____________
@@ -501,14 +501,14 @@
 <a name="999111"></a><b>          <b>UNIVERSIDAD DE GRANADA</b>
 
 
-          MatrÌcula: OFICIAL
+          Matr√≠cula: OFICIAL
           Curso: 2002/03</b>
 
 
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS: 56363  100.0%
+          N√öMERO TOTAL DE ALUMNOS: 56363  100.0%
                           VARONES: 24737   43.9%
                           MUJERES: 31626   56.1%
 
@@ -520,7 +520,7 @@
 
 
 
-          1) <b>DISTRIBUCI”N DE ALUMNOS POR EDADES</b>
+          1) <b>DISTRIBUCI√ìN DE ALUMNOS POR EDADES</b>
 
 
            _____________ _____________ _____________ _____________ 
@@ -555,7 +555,7 @@
 
 
 
-       2) <b>DISTRIBUCI”N DE ALUMNOS POR CURSOS</b>
+       2) <b>DISTRIBUCI√ìN DE ALUMNOS POR CURSOS</b>
 
 
         _________ _____________ _____________ _____________ 
@@ -625,7 +625,7 @@
 
 
 
-      3) <b>DISTRIBUCI”N DE ALUMNOS REPETIDORES</b>
+      3) <b>DISTRIBUCI√ìN DE ALUMNOS REPETIDORES</b>
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -695,7 +695,7 @@
 
 
 
-       4) <b>DISTRIBUCI”N DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
+       4) <b>DISTRIBUCI√ìN DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -719,7 +719,7 @@
        | CEUTA                |   362   1.5 |   484   1.5 |   846   1.5 |
        | CIUDAD REAL          |   144   0.6 |   296   0.9 |   440   0.8 |
        | CORDOBA              |   971   3.9 |  1634   5.2 |  2605   4.6 |
-       | CORU—A, LA           |    20   0.1 |    36   0.1 |    56   0.1 |
+       | CORU√ëA, LA           |    20   0.1 |    36   0.1 |    56   0.1 |
        | CUENCA               |     9   0.0 |    11   0.0 |    20   0.0 |
        | EXTRANJERO           |   266   1.1 |   328   1.0 |   594   1.1 |
        | GERONA               |    23   0.1 |    26   0.1 |    49   0.1 |
@@ -781,7 +781,7 @@
        | EE. UU. DE AMERICA   |     0   0.0 |     3   0.0 |     3   0.0 |
        | EL SALVADOR          |     1   0.0 |     0   0.0 |     1   0.0 |
        | ESLOVAQUIA           |     2   0.0 |     1   0.0 |     3   0.0 |
-       | ESPA—A               |   259   1.1 |   144   0.5 |   403   0.7 |
+       | ESPA√ëA               |   259   1.1 |   144   0.5 |   403   0.7 |
        | FINLANDIA            |     3   0.0 |     1   0.0 |     4   0.0 |
        | FRANCIA              |    29   0.1 |    26   0.1 |    55   0.1 |
        | GRECIA               |     2   0.0 |     1   0.0 |     3   0.0 |
@@ -818,7 +818,7 @@
 
 
 
-       5) <b>DISTRIBUCI”N DE ALUMNOS POR NACIONALIDAD</b>
+       5) <b>DISTRIBUCI√ìN DE ALUMNOS POR NACIONALIDAD</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -855,7 +855,7 @@
 
        | ESLOVAQUIA           |     3   0.0 |     6   0.0 |     9   0.0 |
        | ESLOVENIA            |     0   0.0 |     1   0.0 |     1   0.0 |
-       | ESPA—A               | 22852  92.7 | 30058  95.7 | 52910  94.4 |
+       | ESPA√ëA               | 22852  92.7 | 30058  95.7 | 52910  94.4 |
        | ESTONIA              |     2   0.0 |     2   0.0 |     4   0.0 |
        | FILIPINAS            |     1   0.0 |     0   0.0 |     1   0.0 |
        | FINLANDIA            |    27   0.1 |     3   0.0 |    30   0.1 |
@@ -908,12 +908,12 @@
 
 
 
-          6) <b>DISTRIBUCI”N DE ALUMNOS POR CLASE DE MATRÕCULA</b>
+          6) <b>DISTRIBUCI√ìN DE ALUMNOS POR CLASE DE MATR√çCULA</b>
 
 
 </font><font size="2">                 </font><font size="4"> </font><font size="2">________________________________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________
                  </font><font size="4">|</font><font size="2">                                </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">
-                 </font><font size="4">|</font><font size="2">       CLASE DE MATRÕCULA       </font><font size="4">|</font><font size="2"> NO F.N.  %  </font><font size="4">|</font><font size="2"> F.N.1™   %  </font><font size="4">|</font><font size="2"> F.N.2™   %  </font><font size="4">|</font><font size="2"> ALUMNOS  %  </font><font size="4">|</font><font size="2">
+                 </font><font size="4">|</font><font size="2">       CLASE DE MATR√çCULA       </font><font size="4">|</font><font size="2"> NO F.N.  %  </font><font size="4">|</font><font size="2"> F.N.1¬™   %  </font><font size="4">|</font><font size="2"> F.N.2¬™   %  </font><font size="4">|</font><font size="2"> ALUMNOS  %  </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2">________________________________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2">                                </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2"> ORDINARIA                      </font><font size="4">|</font><font size="2"> 34104  60.8 </font><font size="4">|</font><font size="2">  7411  13.2 </font><font size="4">|</font><font size="2">    92   0.2 </font><font size="4">|</font><font size="2"> 41607  74.2 </font><font size="4">|</font><font size="2">
@@ -931,7 +931,7 @@
 
 
 
-          7) <b>DISTRIBUCI”N DE ALUMNOS POR TIPO DE BECA</b>
+          7) <b>DISTRIBUCI√ìN DE ALUMNOS POR TIPO DE BECA</b>
 
 
            ________________________________ _____________
@@ -961,14 +961,14 @@
 <a name="999112"></a><b>          <b>UNIVERSIDAD DE GRANADA</b>
 
 
-          MatrÌcula: LIBRE
+          Matr√≠cula: LIBRE
           Curso: 2002/03</b>
 
 
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS:     9  100.0%
+          N√öMERO TOTAL DE ALUMNOS:     9  100.0%
                           VARONES:     8   88.9%
                           MUJERES:     1   11.1%
 
@@ -980,7 +980,7 @@
 
 
 
-          1) <b>DISTRIBUCI”N DE ALUMNOS POR EDADES</b>
+          1) <b>DISTRIBUCI√ìN DE ALUMNOS POR EDADES</b>
 
 
            _____________ _____________ _____________ _____________ 
@@ -1015,7 +1015,7 @@
 
 
 
-       2) <b>DISTRIBUCI”N DE ALUMNOS POR CURSOS</b>
+       2) <b>DISTRIBUCI√ìN DE ALUMNOS POR CURSOS</b>
 
 
         _________ _____________ _____________ _____________ 
@@ -1085,7 +1085,7 @@
 
 
 
-      3) <b>DISTRIBUCI”N DE ALUMNOS REPETIDORES</b>
+      3) <b>DISTRIBUCI√ìN DE ALUMNOS REPETIDORES</b>
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -1155,7 +1155,7 @@
 
 
 
-       4) <b>DISTRIBUCI”N DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
+       4) <b>DISTRIBUCI√ìN DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -1171,7 +1171,7 @@
 
 
 
-       5) <b>DISTRIBUCI”N DE ALUMNOS POR NACIONALIDAD</b>
+       5) <b>DISTRIBUCI√ìN DE ALUMNOS POR NACIONALIDAD</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -1179,7 +1179,7 @@
        |     NACIONALIDAD     | VARONES  %  | MUJERES  %  | TOTALES  %  |
        |______________________|_____________|_____________|_____________|
        |                      |             |             |             |
-       | ESPA—A               |     8 100.0 |     1 100.0 |     9 100.0 |
+       | ESPA√ëA               |     8 100.0 |     1 100.0 |     9 100.0 |
        |______________________|_____________|_____________|_____________|
 </font><font size="4">                                        33
 
@@ -1187,12 +1187,12 @@
 
 
 
-          6) <b>DISTRIBUCI”N DE ALUMNOS POR CLASE DE MATRÕCULA</b>
+          6) <b>DISTRIBUCI√ìN DE ALUMNOS POR CLASE DE MATR√çCULA</b>
 
 
 </font><font size="2">                 </font><font size="4"> </font><font size="2">________________________________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________</font><font size="4"> </font><font size="2">_____________
                  </font><font size="4">|</font><font size="2">                                </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">
-                 </font><font size="4">|</font><font size="2">       CLASE DE MATRÕCULA       </font><font size="4">|</font><font size="2"> NO F.N.  %  </font><font size="4">|</font><font size="2"> F.N.1™   %  </font><font size="4">|</font><font size="2"> F.N.2™   %  </font><font size="4">|</font><font size="2"> ALUMNOS  %  </font><font size="4">|</font><font size="2">
+                 </font><font size="4">|</font><font size="2">       CLASE DE MATR√çCULA       </font><font size="4">|</font><font size="2"> NO F.N.  %  </font><font size="4">|</font><font size="2"> F.N.1¬™   %  </font><font size="4">|</font><font size="2"> F.N.2¬™   %  </font><font size="4">|</font><font size="2"> ALUMNOS  %  </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2">________________________________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">_____________</font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2">                                </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">             </font><font size="4">|</font><font size="2">
                  </font><font size="4">|</font><font size="2"> ORDINARIA                      </font><font size="4">|</font><font size="2">     9 100.0 </font><font size="4">|</font><font size="2">     0   0.0 </font><font size="4">|</font><font size="2">     0   0.0 </font><font size="4">|</font><font size="2">     9 100.0 </font><font size="4">|</font><font size="2">
@@ -1210,7 +1210,7 @@
 
 
 
-          7) <b>DISTRIBUCI”N DE ALUMNOS POR TIPO DE BECA</b>
+          7) <b>DISTRIBUCI√ìN DE ALUMNOS POR TIPO DE BECA</b>
 
 
            ________________________________ _____________

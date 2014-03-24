@@ -13,9 +13,9 @@
 
            
 
-          N⁄MERO TOTAL DE ALUMNOS OFICIALES ....... 57271
+          N√öMERO TOTAL DE ALUMNOS OFICIALES ....... 57271
 
-          N⁄MERO TOTAL DE ALUMNOS LIBRES ..........   448
+          N√öMERO TOTAL DE ALUMNOS LIBRES ..........   448
                                                   _________
 
                                   T O T A L ....... 57719
@@ -24,18 +24,18 @@
           UNIVERSIDAD DE GRANADA
 
 
-          MatrÌcula: TODA
+          Matr√≠cula: TODA
           Curso: 1996/97
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS: 57719  100.0%
+          N√öMERO TOTAL DE ALUMNOS: 57719  100.0%
                           VARONES: 25401   44.0%
                           MUJERES: 32318   56.0%
 
 
 
-          1) DISTRIBUCI”N DE ALUMNOS POR EDADES
+          1) DISTRIBUCI√ìN DE ALUMNOS POR EDADES
 
 
            _____________ _____________ _____________ _____________ 
@@ -67,7 +67,7 @@
 
 
 
-       2) DISTRIBUCI”N DE ALUMNOS POR CURSOS
+       2) DISTRIBUCI√ìN DE ALUMNOS POR CURSOS
 
 
         _________ _____________ _____________ _____________ 
@@ -134,7 +134,7 @@
 
 
 
-      3) DISTRIBUCI”N DE ALUMNOS REPETIDORES
+      3) DISTRIBUCI√ìN DE ALUMNOS REPETIDORES
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -201,7 +201,7 @@
 
 
 
-       4) DISTRIBUCI”N DE ALUMNOS POR LUGAR DE RESIDENCIA
+       4) DISTRIBUCI√ìN DE ALUMNOS POR LUGAR DE RESIDENCIA
 
 
         ______________________ _____________ _____________ _____________ 
@@ -328,7 +328,7 @@
 
 
 
-       5) DISTRIBUCI”N DE ALUMNOS POR NACIONALIDAD
+       5) DISTRIBUCI√ìN DE ALUMNOS POR NACIONALIDAD
 
 
         ______________________ _____________ _____________ _____________ 
@@ -407,7 +407,7 @@
 
 
 
-          6) DISTRIBUCI”N DE ALUMNOS POR CLASE DE MATRÕCULA
+          6) DISTRIBUCI√ìN DE ALUMNOS POR CLASE DE MATR√çCULA
 
 
            ________________________________ _____________
@@ -436,7 +436,7 @@
 
 
 
-          7) DISTRIBUCI”N DE ALUMNOS POR TIPO DE BECA
+          7) DISTRIBUCI√ìN DE ALUMNOS POR TIPO DE BECA
 
 
            ________________________________ _____________
@@ -462,19 +462,19 @@
           UNIVERSIDAD DE GRANADA
 
 
-          MatrÌcula: OFICIAL
+          Matr√≠cula: OFICIAL
           Curso: 1996/97
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS: 57271  100.0%
+          N√öMERO TOTAL DE ALUMNOS: 57271  100.0%
                           VARONES: 25181   44.0%
                           MUJERES: 32090   56.0%
 
 
 
 
-          1) DISTRIBUCI”N DE ALUMNOS POR EDADES
+          1) DISTRIBUCI√ìN DE ALUMNOS POR EDADES
 
 
            _____________ _____________ _____________ _____________ 
@@ -505,7 +505,7 @@
           |_____________|_____________|_____________|_____________|
 
 
-       2) DISTRIBUCI”N DE ALUMNOS POR CURSOS
+       2) DISTRIBUCI√ìN DE ALUMNOS POR CURSOS
 
 
         _________ _____________ _____________ _____________ 
@@ -571,7 +571,7 @@
           |_________|_____________|_____________|_____________|_____________|_____________|_____________|
 
 
-      3) DISTRIBUCI”N DE ALUMNOS REPETIDORES
+      3) DISTRIBUCI√ìN DE ALUMNOS REPETIDORES
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -638,7 +638,7 @@
 
 
 
-       4) DISTRIBUCI”N DE ALUMNOS POR LUGAR DE RESIDENCIA
+       4) DISTRIBUCI√ìN DE ALUMNOS POR LUGAR DE RESIDENCIA
 
 
         ______________________ _____________ _____________ _____________ 
@@ -765,7 +765,7 @@
 
 
 
-       5) DISTRIBUCI”N DE ALUMNOS POR NACIONALIDAD
+       5) DISTRIBUCI√ìN DE ALUMNOS POR NACIONALIDAD
 
 
         ______________________ _____________ _____________ _____________ 
@@ -844,7 +844,7 @@
 
 
 
-          6) DISTRIBUCI”N DE ALUMNOS POR CLASE DE MATRÕCULA
+          6) DISTRIBUCI√ìN DE ALUMNOS POR CLASE DE MATR√çCULA
 
 
            ________________________________ _____________
@@ -873,7 +873,7 @@
 
 
 
-          7) DISTRIBUCI”N DE ALUMNOS POR TIPO DE BECA
+          7) DISTRIBUCI√ìN DE ALUMNOS POR TIPO DE BECA
 
 
            ________________________________ _____________
@@ -899,18 +899,18 @@
           UNIVERSIDAD DE GRANADA
 
 
-          MatrÌcula: LIBRE
+          Matr√≠cula: LIBRE
           Curso: 1996/97
 
 
 
-          N⁄MERO TOTAL DE ALUMNOS:   448  100.0%
+          N√öMERO TOTAL DE ALUMNOS:   448  100.0%
                           VARONES:   220   49.1%
                           MUJERES:   228   50.9%
 
 
 
-          1) DISTRIBUCI”N DE ALUMNOS POR EDADES
+          1) DISTRIBUCI√ìN DE ALUMNOS POR EDADES
 
 
            _____________ _____________ _____________ _____________ 
@@ -942,7 +942,7 @@
 
 
 
-       2) DISTRIBUCI”N DE ALUMNOS POR CURSOS
+       2) DISTRIBUCI√ìN DE ALUMNOS POR CURSOS
 
 
         _________ _____________ _____________ _____________ 
@@ -1009,7 +1009,7 @@
 
 
 
-      3) DISTRIBUCI”N DE ALUMNOS REPETIDORES
+      3) DISTRIBUCI√ìN DE ALUMNOS REPETIDORES
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -1076,7 +1076,7 @@
 
 
 
-       4) DISTRIBUCI”N DE ALUMNOS POR LUGAR DE RESIDENCIA
+       4) DISTRIBUCI√ìN DE ALUMNOS POR LUGAR DE RESIDENCIA
 
 
         ______________________ _____________ _____________ _____________ 
@@ -1126,7 +1126,7 @@
 
 
 
-       5) DISTRIBUCI”N DE ALUMNOS POR NACIONALIDAD
+       5) DISTRIBUCI√ìN DE ALUMNOS POR NACIONALIDAD
 
 
         ______________________ _____________ _____________ _____________ 
@@ -1142,7 +1142,7 @@
 
 
 
-          6) DISTRIBUCI”N DE ALUMNOS POR CLASE DE MATRÕCULA
+          6) DISTRIBUCI√ìN DE ALUMNOS POR CLASE DE MATR√çCULA
 
 
            ________________________________ _____________
@@ -1171,7 +1171,7 @@
 
 
 
-          7) DISTRIBUCI”N DE ALUMNOS POR TIPO DE BECA
+          7) DISTRIBUCI√ìN DE ALUMNOS POR TIPO DE BECA
 
 
            ________________________________ _____________

@@ -26,9 +26,9 @@
 
 
 
-          NÚMERO TOTAL DE ALUMNOS OFICIALES ....... 58929
+          NÃšMERO TOTAL DE ALUMNOS OFICIALES ....... 58929
 
-          NÚMERO TOTAL DE ALUMNOS LIBRES ..........    17
+          NÃšMERO TOTAL DE ALUMNOS LIBRES ..........    17
                                                   _________
 
                                   T O T A L ....... 58946
@@ -41,14 +41,14 @@
 <a name="999110"></a><b>          <b>UNIVERSIDAD DE GRANADA</b>
 
 
-          Matrícula: TODA
+          MatrÃ­cula: TODA
           Curso: 2000/01</b>
 
 
 
 
 
-          NÚMERO TOTAL DE ALUMNOS: 58946  100.0%
+          NÃšMERO TOTAL DE ALUMNOS: 58946  100.0%
                           VARONES: 25102   42.6%
                           MUJERES: 33844   57.4%
 
@@ -60,7 +60,7 @@
 
 
 
-          1) <b>DISTRIBUCIÓN DE ALUMNOS POR EDADES</b>
+          1) <b>DISTRIBUCIÃ“N DE ALUMNOS POR EDADES</b>
 
 
            _____________ _____________ _____________ _____________ 
@@ -95,7 +95,7 @@
 
 
 
-       2) <b>DISTRIBUCIÓN DE ALUMNOS POR CURSOS</b>
+       2) <b>DISTRIBUCIÃ“N DE ALUMNOS POR CURSOS</b>
 
 
         _________ _____________ _____________ _____________ 
@@ -165,7 +165,7 @@
 
 
 
-      3) <b>DISTRIBUCIÓN DE ALUMNOS REPETIDORES</b>
+      3) <b>DISTRIBUCIÃ“N DE ALUMNOS REPETIDORES</b>
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -235,7 +235,7 @@
 
 
 
-       4) <b>DISTRIBUCIÓN DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
+       4) <b>DISTRIBUCIÃ“N DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -259,7 +259,7 @@
        | CEUTA                |   337   1.3 |   487   1.4 |   824   1.4 |
        | CIUDAD REAL          |   150   0.6 |   306   0.9 |   456   0.8 |
        | CORDOBA              |   956   3.8 |  1554   4.6 |  2510   4.3 |
-       | CORUÑA, LA           |    17   0.1 |    27   0.1 |    44   0.1 |
+       | CORUÃ‘A, LA           |    17   0.1 |    27   0.1 |    44   0.1 |
        | CUENCA               |     6   0.0 |    11   0.0 |    17   0.0 |
        | EXTRANJERO           |   310   1.2 |   386   1.1 |   696   1.2 |
        | GERONA               |    32   0.1 |    29   0.1 |    61   0.1 |
@@ -321,7 +321,7 @@
        | EL SALVADOR          |     1   0.0 |     0   0.0 |     1   0.0 |
        | EMIRATOS ARABES      |     1   0.0 |     0   0.0 |     1   0.0 |
        | ESLOVAQUIA           |     1   0.0 |     1   0.0 |     2   0.0 |
-       | ESPAÑA               |   567   2.3 |   276   0.8 |   843   1.4 |
+       | ESPAÃ‘A               |   567   2.3 |   276   0.8 |   843   1.4 |
        | FINLANDIA            |     0   0.0 |     1   0.0 |     1   0.0 |
        | FRANCIA              |    15   0.1 |    37   0.1 |    52   0.1 |
        | GUINEA ECUATORIAL    |     4   0.0 |     0   0.0 |     4   0.0 |
@@ -358,7 +358,7 @@
 
 
 
-       5) <b>DISTRIBUCIÓN DE ALUMNOS POR NACIONALIDAD</b>
+       5) <b>DISTRIBUCIÃ“N DE ALUMNOS POR NACIONALIDAD</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -396,7 +396,7 @@
        | EL SALVADOR          |     0   0.0 |     1   0.0 |     1   0.0 |
        | ESLOVAQUIA           |     1   0.0 |     2   0.0 |     3   0.0 |
        | ESLOVENIA            |     0   0.0 |     2   0.0 |     2   0.0 |
-       | ESPAÑA               | 23326  93.0 | 30936  91.6 | 54262  92.2 |
+       | ESPAÃ‘A               | 23326  93.0 | 30936  91.6 | 54262  92.2 |
        | ESTONIA              |     1   0.0 |     0   0.0 |     1   0.0 |
        | FINLANDIA            |     0   0.0 |    10   0.0 |    10   0.0 |
        | FRANCIA              |     0   0.0 |   188   0.6 |   188   0.3 |
@@ -445,7 +445,7 @@
 
 
 
-          6) <b>DISTRIBUCIÓN DE ALUMNOS POR CLASE DE MATRÍCULA</b>
+          6) <b>DISTRIBUCIÃ“N DE ALUMNOS POR CLASE DE MATRÃCULA</b>
 
 
            ________________________________ _____________
@@ -476,7 +476,7 @@
 
 
 
-          7) <b>DISTRIBUCIÓN DE ALUMNOS POR TIPO DE BECA</b>
+          7) <b>DISTRIBUCIÃ“N DE ALUMNOS POR TIPO DE BECA</b>
 
 
            ________________________________ _____________
@@ -508,14 +508,14 @@
 <a name="999111"></a><b>          <b>UNIVERSIDAD DE GRANADA</b>
 
 
-          Matrícula: OFICIAL
+          MatrÃ­cula: OFICIAL
           Curso: 2000/01</b>
 
 
 
 
 
-          NÚMERO TOTAL DE ALUMNOS: 58929  100.0%
+          NÃšMERO TOTAL DE ALUMNOS: 58929  100.0%
                           VARONES: 25090   42.6%
                           MUJERES: 33839   57.4%
 
@@ -527,7 +527,7 @@
 
 
 
-          1) <b>DISTRIBUCIÓN DE ALUMNOS POR EDADES</b>
+          1) <b>DISTRIBUCIÃ“N DE ALUMNOS POR EDADES</b>
 
 
            _____________ _____________ _____________ _____________ 
@@ -562,7 +562,7 @@
 
 
 
-       2) <b>DISTRIBUCIÓN DE ALUMNOS POR CURSOS</b>
+       2) <b>DISTRIBUCIÃ“N DE ALUMNOS POR CURSOS</b>
 
 
         _________ _____________ _____________ _____________ 
@@ -632,7 +632,7 @@
 
 
 
-      3) <b>DISTRIBUCIÓN DE ALUMNOS REPETIDORES</b>
+      3) <b>DISTRIBUCIÃ“N DE ALUMNOS REPETIDORES</b>
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -702,7 +702,7 @@
 
 
 
-       4) <b>DISTRIBUCIÓN DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
+       4) <b>DISTRIBUCIÃ“N DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -726,7 +726,7 @@
        | CEUTA                |   337   1.3 |   486   1.4 |   823   1.4 |
        | CIUDAD REAL          |   150   0.6 |   306   0.9 |   456   0.8 |
        | CORDOBA              |   956   3.8 |  1554   4.6 |  2510   4.3 |
-       | CORUÑA, LA           |    17   0.1 |    27   0.1 |    44   0.1 |
+       | CORUÃ‘A, LA           |    17   0.1 |    27   0.1 |    44   0.1 |
        | CUENCA               |     6   0.0 |    11   0.0 |    17   0.0 |
        | EXTRANJERO           |   310   1.2 |   385   1.1 |   695   1.2 |
        | GERONA               |    32   0.1 |    29   0.1 |    61   0.1 |
@@ -788,7 +788,7 @@
        | EL SALVADOR          |     1   0.0 |     0   0.0 |     1   0.0 |
        | EMIRATOS ARABES      |     1   0.0 |     0   0.0 |     1   0.0 |
        | ESLOVAQUIA           |     1   0.0 |     1   0.0 |     2   0.0 |
-       | ESPAÑA               |   567   2.3 |   276   0.8 |   843   1.4 |
+       | ESPAÃ‘A               |   567   2.3 |   276   0.8 |   843   1.4 |
        | FINLANDIA            |     0   0.0 |     1   0.0 |     1   0.0 |
        | FRANCIA              |    15   0.1 |    37   0.1 |    52   0.1 |
        | GUINEA ECUATORIAL    |     4   0.0 |     0   0.0 |     4   0.0 |
@@ -825,7 +825,7 @@
 
 
 
-       5) <b>DISTRIBUCIÓN DE ALUMNOS POR NACIONALIDAD</b>
+       5) <b>DISTRIBUCIÃ“N DE ALUMNOS POR NACIONALIDAD</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -863,7 +863,7 @@
        | EL SALVADOR          |     0   0.0 |     1   0.0 |     1   0.0 |
        | ESLOVAQUIA           |     1   0.0 |     2   0.0 |     3   0.0 |
        | ESLOVENIA            |     0   0.0 |     2   0.0 |     2   0.0 |
-       | ESPAÑA               | 23318  93.0 | 30931  91.6 | 54249  92.2 |
+       | ESPAÃ‘A               | 23318  93.0 | 30931  91.6 | 54249  92.2 |
        | ESTONIA              |     1   0.0 |     0   0.0 |     1   0.0 |
        | FINLANDIA            |     0   0.0 |    10   0.0 |    10   0.0 |
        | FRANCIA              |     0   0.0 |   188   0.6 |   188   0.3 |
@@ -912,7 +912,7 @@
 
 
 
-          6) <b>DISTRIBUCIÓN DE ALUMNOS POR CLASE DE MATRÍCULA</b>
+          6) <b>DISTRIBUCIÃ“N DE ALUMNOS POR CLASE DE MATRÃCULA</b>
 
 
            ________________________________ _____________
@@ -943,7 +943,7 @@
 
 
 
-          7) <b>DISTRIBUCIÓN DE ALUMNOS POR TIPO DE BECA</b>
+          7) <b>DISTRIBUCIÃ“N DE ALUMNOS POR TIPO DE BECA</b>
 
 
            ________________________________ _____________
@@ -975,14 +975,14 @@
 <a name="999112"></a><b>          <b>UNIVERSIDAD DE GRANADA</b>
 
 
-          Matrícula: LIBRE
+          MatrÃ­cula: LIBRE
           Curso: 2000/01</b>
 
 
 
 
 
-          NÚMERO TOTAL DE ALUMNOS:    17  100.0%
+          NÃšMERO TOTAL DE ALUMNOS:    17  100.0%
                           VARONES:    12   70.6%
                           MUJERES:     5   29.4%
 
@@ -994,7 +994,7 @@
 
 
 
-          1) <b>DISTRIBUCIÓN DE ALUMNOS POR EDADES</b>
+          1) <b>DISTRIBUCIÃ“N DE ALUMNOS POR EDADES</b>
 
 
            _____________ _____________ _____________ _____________ 
@@ -1029,7 +1029,7 @@
 
 
 
-       2) <b>DISTRIBUCIÓN DE ALUMNOS POR CURSOS</b>
+       2) <b>DISTRIBUCIÃ“N DE ALUMNOS POR CURSOS</b>
 
 
         _________ _____________ _____________ _____________ 
@@ -1099,7 +1099,7 @@
 
 
 
-      3) <b>DISTRIBUCIÓN DE ALUMNOS REPETIDORES</b>
+      3) <b>DISTRIBUCIÃ“N DE ALUMNOS REPETIDORES</b>
 
 
       _________ ___________________ ___________________ ___________________ 
@@ -1169,7 +1169,7 @@
 
 
 
-       4) <b>DISTRIBUCIÓN DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
+       4) <b>DISTRIBUCIÃ“N DE ALUMNOS POR LUGAR DE RESIDENCIA</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -1189,7 +1189,7 @@
 
 
 
-       5) <b>DISTRIBUCIÓN DE ALUMNOS POR NACIONALIDAD</b>
+       5) <b>DISTRIBUCIÃ“N DE ALUMNOS POR NACIONALIDAD</b>
 
 
         ______________________ _____________ _____________ _____________ 
@@ -1197,7 +1197,7 @@
        |     NACIONALIDAD     | VARONES  %  | MUJERES  %  | TOTALES  %  |
        |______________________|_____________|_____________|_____________|
        |                      |             |             |             |
-       | ESPAÑA               |     8  66.7 |     5 100.0 |    13  76.5 |
+       | ESPAÃ‘A               |     8  66.7 |     5 100.0 |    13  76.5 |
        | SIN ESPECIFICAR      |     4  33.3 |     0   0.0 |     4  23.5 |
        |______________________|_____________|_____________|_____________|
 </font><font size="4">                                        33
@@ -1206,7 +1206,7 @@
 
 
 
-          6) <b>DISTRIBUCIÓN DE ALUMNOS POR CLASE DE MATRÍCULA</b>
+          6) <b>DISTRIBUCIÃ“N DE ALUMNOS POR CLASE DE MATRÃCULA</b>
 
 
            ________________________________ _____________
@@ -1237,7 +1237,7 @@
 
 
 
-          7) <b>DISTRIBUCIÓN DE ALUMNOS POR TIPO DE BECA</b>
+          7) <b>DISTRIBUCIÃ“N DE ALUMNOS POR TIPO DE BECA</b>
 
 
            ________________________________ _____________
