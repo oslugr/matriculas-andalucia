@@ -84,7 +84,7 @@ sub principal {
             }
             if(($linea =~ /^\n$/) && $finalTabla){
                 #Si hay 3 números en una misma celda, que se elimine el último y se separen los dos primeros
-                $tablaCompleta =~ s/(\d+) +(\d+) +(\d+.\d+)/$1,$2/g;
+                $tablaCompleta =~ s/(\d+) +(\d+) +(\d+\.\d+)/$1,$2/g;
                 #Se quitan los números que muestran los porcentajes
                 $tablaCompleta =~ s/(\d+) +(\d+.\d+)/$1/g;
                 #Añadimos una , si Varones Mujeres ó Total no tiene nada más en la celda.
@@ -119,7 +119,7 @@ sub principal {
                 #Quitamos las filas vacías con espacios en blanco
                 $tablaCompleta =~ s/\n\s*\n/\n/g;
                 #Se quitan las filas vacías
-                $tablaCompleta =~ s/\n+//;
+                $tablaCompleta =~ s/^\n+//;
                 #Quitamos esta cadena para poder visualizarlo bien,
                 $tablaCompleta =~ s/\s?del , con asignaturas de\s?\n?//;
                 #print $tablaCompleta;
