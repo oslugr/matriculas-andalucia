@@ -78,7 +78,7 @@ sub principal {
                 #Quitamos todas las filas que no tienen texto
                 $tabla =~ s/^([\s\|]+$)//;
                 #Si hay alguna coma en una celda, metemos todo entre comillas
-                $tabla =~ s/(\w+, ?\w+)/\"$1\"/g;
+                $tabla =~ s/(\w+), ?(\w+)/$1 $2/g;
                 $tablaCompleta .= $tabla."\n";
                 $finalTabla = true;
             }
